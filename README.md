@@ -4,7 +4,6 @@ with knowledge of managing projects, resources in an effective and efficient man
 - 🌱 I’m currently learning Computer Science Engineering 3rd Year,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shivamkamath.cse@gmail.com or shivamkamath@outlook.com
-
 -💬 Ask me about || Full Stack Web Developer || AI & ML || competitive programming || C++ DSA || Python || Project Management || Project Planning || Project Scheduling || Task Management || 
 
 <!---
