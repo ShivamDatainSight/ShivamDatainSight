@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI & ML || competitive programming || **
 
-- 💬 Ask me about **|| Full Stack Web Developer || AI & ML || competitive programming || C++ DSA || Python || Project Management || Project Planning || Project Scheduling || Task Management ||**
+- 💬 Ask me about **|| FrontEnd Web Developer || AI & ML || competitive programming || C++ DSA || Python || Project Management || Project Planning || Project Scheduling || Task Management ||**
 
 - 📫 How to reach me **shivamkamath.cse@gmail.com or shivamkamath@outlook.com**
 
