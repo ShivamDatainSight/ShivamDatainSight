@@ -7,7 +7,8 @@
 
 - 💬 Ask me about **|| FrontEnd Web Developer || AI & ML || competitive programming || C++ DSA || Python || Project Management || Project Planning || Project Scheduling || Task Management ||**
 
-- 📫 How to reach me **shivamkamath.cse@gmail.com or shivamkamath@outlook.com**
+- 📫 How to reach me **shivam.datainsight@gmail.com orShiivamchoudhary@outlook.com
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
