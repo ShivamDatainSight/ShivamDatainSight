@@ -23,7 +23,7 @@ You can find all my public projects here on my GitHub profile. Some of the notab
 - **[Project 3 Name]** - Brief description of what it does.
 
 Feel free to check them out and contribute if you're interested! -->
-## 🪶 Open Source Badges
+<!--- ## 🪶 Open Source Badges
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -35,7 +35,7 @@ Feel free to check them out and contribute if you're interested! -->
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
 </div>
-</details>
+</details>  -->
 
 
 ## 📧 How to Reach Me
