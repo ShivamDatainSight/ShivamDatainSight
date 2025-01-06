@@ -1,6 +1,6 @@
 
 # Hi there!👋 I am Shivam ChouDhary
- A passionate and results-oriented  **Computer Science Engineering (CSE) Graduate** with a specialization in **Artificial Intelligence and Machine Learning (AIML)** at **IP University**  with a strong foundation in Data Science, Business Analysis, and Data Analytics. With over 2 years of experience as an Ex-Project Engineer at L&T India, I have honed my skills in project management, resource allocation, and executing projects efficiently. My expertise includes analyzing data trends, transforming data into actionable insights, and using data-driven strategies to drive business decisions. Eager to leverage my technical skills and project management experience in the fields of Data Science.
+ A passionate and results-oriented  **Computer Science Engineering (CSE) Graduate** with a specialization in **Artificial Intelligence and Machine Learning (AI & ML)** at **IP University**  with a strong foundation in Data Science, Business Analysis, and Data Analytics. With over 2 years of experience as an Ex-Project Engineer at L&T India, I have honed my skills in project management, resource allocation, and executing projects efficiently. My expertise includes analyzing data trends, transforming data into actionable insights, and using data-driven strategies to drive business decisions. Eager to leverage my technical skills and project management experience in the fields of Data Science.
 
 ## 🚀 About Me
 
