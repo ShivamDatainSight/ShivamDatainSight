@@ -42,6 +42,7 @@ Feel free to check them out and contribute if you're interested! -->
 
 - Email: [Shivam Choudhary](mailto:shivam.datainsight@gmail.com )
 - LinkedIn: [Shivam Choudhary](https://www.linkedin.com/in/shivamdatainsight/)
+- Leetcode : [Shivam Choudhary](https://leetcode.com/u/shivamDatainsight/)
 
 ## 🧑‍💻 Skills & Technologies
 
