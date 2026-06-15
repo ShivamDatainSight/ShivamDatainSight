@@ -648,3 +648,61 @@ Transforming Data into Actionable Insights
 <img src="https://progress-bar.dev/85/?title=Visualization&color=FF1493" />
 
 </p>
+
+
+## ⚡ SKILLS MATRIX ⚡
+
+<p align="center">
+
+**🗄️ SQL**  
+![SQL](https://img.shields.io/badge/SQL-90%25-FF6B00?style=for-the-badge&logo=mysql)
+
+**🐍 Python**  
+![Python](https://img.shields.io/badge/Python-90%25-00F5F5?style=for-the-badge&logo=python)
+
+**📊 Power BI**  
+![Power BI](https://img.shields.io/badge/Power%20BI-85%25-F2C811?style=for-the-badge&logo=powerbi)
+
+**📈 Advanced Excel**  
+![Excel](https://img.shields.io/badge/Advanced%20Excel-88%25-00FF7F?style=for-the-badge&logo=microsoft-excel)
+
+</p>
+
+<p align="center">
+
+**🤖 AI & Machine Learning**  
+![AI ML](https://img.shields.io/badge/AI%20%26%20ML-80%25-FF00FF?style=for-the-badge)
+
+**💬 Prompt Engineering**  
+![Prompt](https://img.shields.io/badge/Prompt%20Engineering-75%25-9D00FF?style=for-the-badge)
+
+**🧠 ChatGPT / AI Tools**  
+![ChatGPT](https://img.shields.io/badge/ChatGPT-90%25-00BFFF?style=for-the-badge&logo=openai)
+
+**📉 Data Visualization**  
+![Visualization](https://img.shields.io/badge/Data%20Visualization-85%25-FF1493?style=for-the-badge)
+
+</p>
+
+<p align="center">
+
+**🔄 Reconciliation**  
+![Recon](https://img.shields.io/badge/Reconciliation-80%25-7CFC00?style=for-the-badge)
+
+**📊 Statistics**  
+![Stats](https://img.shields.io/badge/Statistics-85%25-FF4500?style=for-the-badge)
+
+**🏢 SAP MM**  
+![SAP MM](https://img.shields.io/badge/SAP%20MM-75%25-1E90FF?style=for-the-badge)
+
+**🔍 ELPHS**  
+![ELPHS](https://img.shields.io/badge/ELPHS-70%25-8A2BE2?style=for-the-badge)
+
+</p>
+
+<p align="center">
+
+**🗄️ SQL Server**  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-85%25-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+
+</p>
