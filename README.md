@@ -70,34 +70,69 @@ Feel free to check them out and contribute if you're interested! -->
 </p>
 
 
-  ## 📧 CONNECT WITH ME | LET'S COLLABORATE 🚀
+ ## 📧 CONNECT WITH ME | LET'S COLLABORATE 🚀
 
-📊 Always open to opportunities in Data Analytics & Data Science
+> 📊 Open to opportunities in Data Analytics, Business Intelligence, and Data Science.
+>
+> 💡 Passionate about transforming raw data into actionable insights.
+>
+> 📈 Continuously learning Python, SQL, Power BI, Machine Learning, and AWS Cloud.
+>
+> 🤝 Open to collaborations, networking, and exciting data-driven projects.
 
----
+## 📧 CONNECT WITH ME | LET'S COLLABORATE 🚀
+
+📊 Data Analytics      │ 📈 Business Intelligence  
+🤖 Data Science       │ ☁️ AWS Cloud  
+
+💡 Turning data into insights  
+🚀 Building real-world projects  
+🤝 Open for collaboration & opportunities
+
+## 📧 CONNECT WITH ME | LET'S COLLABORATE 🚀
+
+```bash
+$ role
+Data Analyst | Data Science Enthusiast
+
+$ interests
+Python | SQL | Power BI | Machine Learning | AWS
+
+$ status
+Open for Collaboration & Opportunities
+
+$ mission
+Transforming Data into Actionable Insights
+```
+
+## 📧 CONNECT WITH ME | LET'S COLLABORATE 🚀
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 Data Analytics & Data Science
+
+💡 Transforming raw data into meaningful insights
+
+📈 Skilled in Python, SQL, Excel, Power BI & ML
+
+🌱 Continuously learning AWS Cloud & Advanced Analytics
+
+🤝 Open to Networking, Collaboration & Opportunities
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
----
+## 🚀 DATA ANALYTICS | DATA SCIENCE | BUSINESS INTELLIGENCE
 
-## 🚀 Quick Links
+🔹 Transforming raw data into actionable insights
 
-- 📧 Email: shivam.datainsight@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/shivamdatainsight/  
-- 🧠 LeetCode: https://leetcode.com/u/shivamDatainsight/  ---
+🔹 Building real-world projects using Python, SQL, Power BI, and Machine Learning
 
-## 🚀 Quick Links
+🔹 Passionate about analytics, automation, and data-driven decision making
 
-- 📧 Email: shivam.datainsight@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/shivamdatainsight/  
-- 🧠 LeetCode: https://leetcode.com/u/shivamDatainsight/  
-## 🧑‍💻 Skills & Technologies
+🔹 Open to collaborations, networking, internships, and full-time opportunities
 
-- **Programming Languages**: Python, C++
-- **Web Development**: HTML, CSS, JavaScript
-- **Databases**: SQL, MySQL Server
-- **Version Control**: Git, GitHub
-- **AI/ML Libraries**: TensorFlow, PyTorch, Scikit-Learn, Keras, OpenCV 
-- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn 
+📧 Let's connect and create something impactful together!
 
 
 
