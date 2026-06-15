@@ -11,6 +11,13 @@ My responsibilities included **data reconciliation and validation** to ensure ac
 
 Additionally, I handled **engineering drawing material reconciliation** and contributed to improving data accuracy, reporting efficiency, and site-level coordination. I am focused on building a career in **Data Analytics** and **Data Science**, where I can apply my analytical skills and technical knowledge to solve real-world business problems.
 
+## 🚀📊 DATA ANALYTICS JOURNEY OVERVIEW  
+### 🔴 Skill Growth Visualization (Dark Professional Theme)
+
+💡 My learning progress across core Data Analyst & Data Science skills
+
+![Skill Growth Line Chart](https://quickchart.io/chart?width=700&height=350&c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22SQL%22%2C%22Python%22%2C%22Excel%22%2C%22Power%20BI%22%2C%22Machine%20Learning%22%2C%22AWS%22%2C%22Project%20Management%22%2C%22Prompt%20Engineering%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Core%20Skills%22%2C%22data%22%3A%5B90%2C92%2C88%2C85%2C80%2C75%2C82%2C78%5D%2C%22borderColor%22%3A%22%23FF4C4C%22%2C%22backgroundColor%22%3A%22rgba(255%2C76%2C76%2C0.08)%22%2C%22borderWidth%22%3A3%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Advanced%20Growth%20Trend%22%2C%22data%22%3A%5B70%2C75%2C78%2C80%2C82%2C85%2C88%2C90%5D%2C%22borderColor%22%3A%22%23222222%22%2C%22backgroundColor%22%3A%22rgba(0%2C0%2C0%2C0.05)%22%2C%22borderWidth%22%3A2%2C%22borderDash%22%3A%5B5%2C5%5D%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22color%22%3A%22white%22%2C%22font%22%3A%7B%22size%22%3A12%7D%7D%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22white%22%7D%7D%2C%22y%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22white%22%7D%7D%7D%7D%7D)
+
 
 ## 📊 Overview (Skill Growth & Focus)
 
