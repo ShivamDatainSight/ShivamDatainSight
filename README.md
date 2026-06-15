@@ -610,6 +610,37 @@ Transforming Data into Actionable Insights
 ### 💬 Prompt Engineering
 <img src="https://progress-bar.dev/75/?title=Prompt%20Engg&color=9D00FF" />
 
+
+## ⚡ SKILLS POWER LEVEL ⚡
+
+<p align="center">
+
+**🐍 Python**  
+![Python](https://img.shields.io/badge/Python-90%25-00F5F5?style=for-the-badge&logo=python)
+
+**🗄️ SQL**  
+![SQL](https://img.shields.io/badge/SQL-88%25-FF6B00?style=for-the-badge&logo=mysql)
+
+**📊 Power BI**  
+![Power BI](https://img.shields.io/badge/Power%20BI-85%25-F2C811?style=for-the-badge&logo=powerbi)
+
+**📈 Advanced Excel**  
+![Excel](https://img.shields.io/badge/Advanced%20Excel-88%25-00FF7F?style=for-the-badge&logo=microsoft-excel)
+
+**🤖 AI & Machine Learning**  
+![AI ML](https://img.shields.io/badge/AI%20%26%20ML-80%25-FF00FF?style=for-the-badge&logo=ai)
+
+**💬 Prompt Engineering**  
+![Prompt](https://img.shields.io/badge/Prompt%20Engineering-75%25-9D00FF?style=for-the-badge)
+
+**🧠 ChatGPT / AI Tools**  
+![ChatGPT](https://img.shields.io/badge/ChatGPT-90%25-00BFFF?style=for-the-badge&logo=openai)
+
+**📉 Data Visualization**  
+![Visualization](https://img.shields.io/badge/Data%20Visualization-85%25-FF1493?style=for-the-badge)
+
+</p>
+
 ### 🧠 ChatGPT / AI Tools
 <img src="https://progress-bar.dev/90/?title=ChatGPT&color=00BFFF" />
 
