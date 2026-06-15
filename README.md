@@ -489,3 +489,101 @@ Transforming Data into Actionable Insights
 # 💡 MOTTO
 
 > “From data to impact 🚀”
+>
+> <div align="center">
+
+# ⚡ SHIVAM // DATA SYSTEM ONLINE ⚡
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&pause=900&color=00F5FF&center=true&vCenter=true&width=1100&lines=SYSTEM+BOOTING...;DATA+ANALYST+LOADED;PYTHON+%7C+SQL+%7C+POWER+BI+ACTIVE;ADVANCED+EXCEL+%7C+VISUALIZATION+ONLINE;TURNING+DATA+INTO+POWER+🚀" />
+
+</div>
+
+---
+
+# 🧠 SYSTEM PROFILE
+
+🚀 STATUS: ONLINE  
+📊 DATA ENGINE: ACTIVE  
+🤖 ANALYTICS MODE: ENABLED  
+⚡ VISUALIZATION CORE: RUNNING  
+
+---
+
+# ⚙️ CORE SKILLS MATRIX
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-00F5FF?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-9D00FF?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Advanced%20Excel-00FF7F?style=for-the-badge&logo=microsoft-excel&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20BI-FFD700?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-FF00FF?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+
+</p>
+
+---
+
+# 📊 GITHUB STATS (NEON MODE)
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShivamDatainSight&show_icons=true&theme=radical&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamDatainSight&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 CYBER ACTIVITY GRID
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamDatainSight&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🐍 NEON CONTRIBUTION SNAKE
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ShivamDatainSight/UserName-/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 💡 SYSTEM CAPABILITIES
+
+✔ Data Cleaning & Transformation  
+✔ Advanced Excel Automation  
+✔ SQL Query Optimization  
+✔ Power BI Dashboard Creation  
+✔ Data Visualization & Storytelling  
+
+---
+
+# 🌐 CONNECT PROTOCOL
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LinkedIn-NEON_CONNECT-00F5FF?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/Gmail-ACCESS_NODE-FF00FF?style=for-the-badge&logo=gmail"/>
+
+</p>
+
+---
+
+# 💡 FINAL MESSAGE
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&width=900&lines=FROM+DATA+TO+IMPACT+🚀;BUILDING+THE+FUTURE+WITH+ANALYTICS" />
+
+</div>
