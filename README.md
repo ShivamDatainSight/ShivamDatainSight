@@ -55,8 +55,6 @@ Feel free to check them out and contribute if you're interested! -->
 
 ---
 
-## 📧 HOW TO REACH ME
-## 📧 HOW TO REACH ME
 
 ---
 
