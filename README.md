@@ -265,39 +265,6 @@ Transforming Data into Actionable Insights
 - ☁️ Exploring AWS Cloud & Advanced Analytics  
 - 🤝 Open for Collaboration & Projects  
 
----
-
-# 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi" />
-  <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel" />
-  <img src="https://img.shields.io/badge/AWS-cloud?style=for-the-badge&logo=amazonaws" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamDatainSight&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamDatainSight&theme=radical" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamDatainSight&theme=react-dark" />
-</p>
-
----
 
 # 🐍 Snake Animation
 
@@ -307,14 +274,7 @@ Transforming Data into Actionable Insights
 
 ---
 
-# 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  <img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail" />
-</p>
-
----
 
 
 
