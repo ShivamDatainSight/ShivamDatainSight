@@ -49,6 +49,16 @@ Feel free to check them out and contribute if you're interested! -->
 - LinkedIn: [Shivam Choudhary](https://www.linkedin.com/in/shivamdatainsight/)
 - Leetcode : [Shivam Choudhary](https://leetcode.com/u/shivamDatainsight/)
 
+  ## 📧 CONNECT WITH ME | LET'S COLLABORATE 🚀
+
+📊 Always open to opportunities in Data Analytics & Data Science
+
+---
+
+### 📈 Contact Growth Overview (Visual Style)
+
+![Contact Overview](https://quickchart.io/chart?width=700&height=300&c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Email%22%2C%22LinkedIn%22%2C%22LeetCode%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Connect%20Strength%22%2C%22data%22%3A%5B95%2C90%2C85%5D%2C%22borderColor%22%3A%22%23FF4C4C%22%2C%22backgroundColor%22%3A%22rgba(255%2C76%2C76%2C0.1)%22%2C%22borderWidth%22%3A3%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22color%22%3A%22white%22%7D%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22white%22%7D%7D%2C%22y%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22white%22%7D%7D%7D%7D%7D)
+
 ## 🧑‍💻 Skills & Technologies
 
 - **Programming Languages**: Python, C++
