@@ -587,3 +587,33 @@ Transforming Data into Actionable Insights
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&width=900&lines=FROM+DATA+TO+IMPACT+🚀;BUILDING+THE+FUTURE+WITH+ANALYTICS" />
 
 </div>
+
+## ⚡ SKILLS POWER LEVEL ⚡
+
+<p align="center">
+
+### 🐍 Python
+<img src="https://progress-bar.dev/90/?title=Python&color=00F5F5" />
+
+### 🗄️ SQL
+<img src="https://progress-bar.dev/88/?title=SQL&color=FF6B00" />
+
+### 📊 Power BI
+<img src="https://progress-bar.dev/85/?title=Power%20BI&color=FFD700" />
+
+### 📈 Advanced Excel
+<img src="https://progress-bar.dev/88/?title=Advanced%20Excel&color=00FF7F" />
+
+### 🤖 AI & Machine Learning
+<img src="https://progress-bar.dev/80/?title=AI%20ML&color=FF00FF" />
+
+### 💬 Prompt Engineering
+<img src="https://progress-bar.dev/75/?title=Prompt%20Engg&color=9D00FF" />
+
+### 🧠 ChatGPT / AI Tools
+<img src="https://progress-bar.dev/90/?title=ChatGPT&color=00BFFF" />
+
+### 📉 Data Visualization
+<img src="https://progress-bar.dev/85/?title=Visualization&color=FF1493" />
+
+</p>
