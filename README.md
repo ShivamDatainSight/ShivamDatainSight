@@ -134,6 +134,30 @@ Transforming Data into Actionable Insights
 
 📧 Let's connect and create something impactful together!
 
+## 📧 CONNECT WITH ME | LET'S COLLABORATE 🚀
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=900&lines=Data+Analytics+%7C+Data+Science+%7C+Business+Intelligence;Turning+Raw+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Open+for+Collaboration+and+Opportunities+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&width=1000&lines=Welcome+to+My+GitHub+Profile!;Data+Analyst+%7C+Data+Science+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+AWS;Always+Learning+%26+Building+🚀" />
+</p>
+
+## 🚀 DATA ANALYTICS JOURNEY
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=800&color=FF4D4D&center=true&width=800&lines=Transforming+Data+into+Insights;Building+Real-World+Projects;Open+for+Data+Analytics+Opportunities" />
+</p>
+
+<p align="center">
+  📊 Data Analytics • 📈 Business Intelligence • 🤖 Data Science
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF4B4B&center=true&width=900&lines=Data+Analyst+%7C+Data+Science+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+AWS;Turning+Data+into+Actionable+Insights;Open+for+Collaboration+and+Opportunities+🚀" />
+</p>
+
 
 
 ## 🎯 Goals
