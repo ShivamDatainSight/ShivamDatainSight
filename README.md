@@ -42,6 +42,25 @@ Feel free to check them out and contribute if you're interested! -->
 </div>
 </details>  -->
 
+<p align="left">
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/shivamdatainsight" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<!-- Email -->
+<a href="mailto:shivam.datainsight@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<!-- LeetCode -->
+<a href="https://leetcode.com/u/shivamDatainsight" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
 
 ## 📧 How to Reach Me
 
