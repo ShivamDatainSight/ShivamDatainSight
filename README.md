@@ -1,14 +1,91 @@
-<h2 align='center'> <i>Hello, Folks!</h2>  
+Here is a **ready-to-copy GitHub README.md file** with all skills shown in **chart (graph) form using Mermaid + visuals**.
 
-<img align="right" src="https://github.com/Ashutosh00710/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
+Just copy everything below and paste into your `README.md` 👇
 
-_Hello there this is **Ashutosh Dwivedi**. Working as [Senior Software Engineer](https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196/) at [Aftershoot](https://www.linkedin.com/company/aftershootco/). You can see my opensource work down below._  
+---
 
-<p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
-</p>
+````markdown
+# 📊 My Skills Dashboard (Graph Representation)
+
+This README shows my skills using different types of charts.
+
+---
+
+# 📊 1. Pie Chart – Skill Distribution
+
+```mermaid
+pie title Skill Distribution
+    "HTML" : 20
+    "CSS" : 15
+    "JavaScript" : 25
+    "Python" : 20
+    "Java" : 10
+    "SQL" : 10
+````
+
+---
+
+# 📊 2. Bar Chart – Skill Levels
+
+```mermaid
+xychart-beta
+    title "Skill Levels"
+    x-axis ["HTML","CSS","JS","Python","Java","SQL"]
+    y-axis "Level" 0 --> 100
+    bar [80,70,85,75,60,65]
+```
+
+---
+
+# 📈 3. Progress Style Skills
+
+### HTML
+
+████████████████░░ 80%
+
+### CSS
+
+██████████████░░░░ 70%
+
+### JavaScript
+
+█████████████████░ 85%
+
+### Python
+
+███████████████░░░ 75%
+
+### Java
+
+████████████░░░░░░ 60%
+
+### SQL
+
+█████████████░░░░░ 65%
+
+---
+
+# 📊 4. Donut Style Chart
+
+```mermaid
+pie title Skill Areas
+    "Frontend" : 40
+    "Backend" : 30
+    "Database" : 15
+    "Tools" : 15
+```
+
+---
+
+# 🚀 5. GitHub Stats (Optional)
+
+```markdown
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+```
+
+---
+
+
+✔ GitHub stats
+
+
