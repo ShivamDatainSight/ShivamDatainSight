@@ -160,6 +160,40 @@ Transforming Data into Actionable Insights
 =============================================
 <div align="center">
 
+
+
+
+============================1
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=🚀+Connect+with+me+to+explore+data-driven+ideas;🤝+Let’s+collaborate+and+build+real-world+solutions;📊+Open+to+Data+Analytics+%7C+Data+Science+%7C+AI;🌐+Networking+with+professionals+in+Data+and+Cloud;💡+Turning+raw+data+into+impactful+insights" />
+</p>
+
+==================2
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF4B4B&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Data+Scientist;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast;AWS+Cloud+Learner;Open+for+Collaboration+🚀" />
+</p>
+
+
+
+
+
+
+==================3
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00FFB3&center=true&width=900&lines=Welcome+to+My+GitHub+Profile;Data+Science+%7C+Analytics+%7C+AI;Building+Data-Driven+Solutions" />
+</p>
+===============4
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFDD00&center=true&width=1000&lines=🚀+Connect+with+me+to+explore+data-driven+ideas;🤝+Let’s+collaborate+and+turn+data+into+solutions;📊+Open+to+Analytics+%7C+AI+%7C+Cloud+projects;🌐+Networking+with+Data+Science+professionals;💡+Let’s+build+impactful+real-world+projects+together" />
+</p>
+=============5
+<p align="center">
+  <img src="https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML-Machine%20Learning-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tools-Python%20%7C%20SQL-red?style=for-the-badge" />
+</p>
+
 # 🚀 DATA ANALYTICS • DATA SCIENCE • MACHINE LEARNING
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+Data+Universe+🌍;Transforming+Data+Into+Decisions+📊;Building+Insights+With+Python+%26+SQL+🐍;Creating+Interactive+Dashboards+📈;Exploring+Machine+Learning+%26+AWS+☁️;Let's+Collaborate+%F0%9F%A4%9D" />
