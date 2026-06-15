@@ -246,6 +246,79 @@ Transforming Data into Actionable Insights
 
 <div align="center">
 
+
+<div align="center">
+
+# 🚀 Shivam | Data Analyst | Data Science Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=Data+Analytics+%7C+Data+Science+%7C+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Turning+Raw+Data+into+Actionable+Insights;Open+for+Collaboration+🚀" />
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+- 📊 Data Analyst & Data Science Enthusiast  
+- 🐍 Skilled in Python, SQL, Excel, Power BI  
+- 🤖 Learning Machine Learning & AI  
+- ☁️ Exploring AWS Cloud & Advanced Analytics  
+- 🤝 Open for Collaboration & Projects  
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel" />
+  <img src="https://img.shields.io/badge/AWS-cloud?style=for-the-badge&logo=amazonaws" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamDatainSight&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamDatainSight&theme=radical" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamDatainSight&theme=react-dark" />
+</p>
+
+---
+
+# 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShivamDatainSight/UserName-/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail" />
+</p>
+
+---
+
+# 💡 Motto
+
+> "Data is the new oil, but insights are the real power." 🚀
 ### 🔥 Profile Highlights
 
 📈 Data-Driven Problem Solver  
