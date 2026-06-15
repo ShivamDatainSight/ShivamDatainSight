@@ -879,3 +879,102 @@ Transforming Data into Actionable Insights
 <img src="https://img.shields.io/badge/SQL%20Server-85%25-CC2927?style=for-the-badge&logo=microsoftsqlserver">
 
 </p>
+
+
+## ⚡ SKILLS DASHBOARD ⚡
+
+<p align="center">
+
+🐍 **Python**  
+<img src="https://img.shields.io/badge/Python-90%25-00F5F5?style=for-the-badge&logo=python"><br>
+Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • Jupyter
+
+</p>
+
+<p align="center">
+
+🗄️ **SQL**  
+<img src="https://img.shields.io/badge/SQL-90%25-FF6B00?style=for-the-badge&logo=mysql"><br>
+MySQL • SQL Server • Joins • CTE • Subqueries • Stored Procedures
+
+</p>
+
+<p align="center">
+
+📊 **Power BI**  
+<img src="https://img.shields.io/badge/Power%20BI-85%25-F2C811?style=for-the-badge&logo=powerbi"><br>
+DAX • Power Query • Dashboards • Data Modeling • ETL • Reports
+
+</p>
+
+<p align="center">
+
+📈 **Advanced Excel**  
+<img src="https://img.shields.io/badge/Advanced%20Excel-88%25-00FF7F?style=for-the-badge&logo=microsoft-excel"><br>
+VLOOKUP • Pivot Tables • Macros • Power Pivot • Data Cleaning • Charts
+
+</p>
+
+<p align="center">
+
+🤖 **AI & ML**  
+<img src="https://img.shields.io/badge/AI%20%26%20ML-80%25-FF00FF?style=for-the-badge"><br>
+Regression • Classification • NLP • Model Training • Feature Engineering • Scikit-learn
+
+</p>
+
+<p align="center">
+
+💬 **Prompt Engineering**  
+<img src="https://img.shields.io/badge/Prompt%20Engineering-75%25-9D00FF?style=for-the-badge"><br>
+Prompt Design • AI Optimization • Context Control • ChatGPT Workflows • Automation • AI Tools
+
+</p>
+
+<p align="center">
+
+🧠 **ChatGPT / AI Tools**  
+<img src="https://img.shields.io/badge/ChatGPT-99%25-00BFFF?style=for-the-badge&logo=openai"><br>
+GPT-4 • Data Analysis • Content Generation • Coding Help • Automation • Problem Solving
+
+</p>
+
+<p align="center">
+
+📉 **Data Visualization**  
+<img src="https://img.shields.io/badge/Data%20Visualization-85%25-FF1493?style=for-the-badge"><br>
+Power BI • Matplotlib • Seaborn • Tableau Basics • Charts • Dashboards
+
+</p>
+
+<p align="center">
+
+🔄 **Reconciliation**  
+<img src="https://img.shields.io/badge/Reconciliation-80%25-7CFC00?style=for-the-badge"><br>
+Financial Matching • Data Validation • Excel Reco • ERP Systems • Error Detection • Reports
+
+</p>
+
+<p align="center">
+
+📊 **Statistics**  
+<img src="https://img.shields.io/badge/Statistics-85%25-FF4500?style=for-the-badge"><br>
+Probability • Hypothesis Testing • Regression • Descriptive Stats • Distributions • Analytics
+
+</p>
+
+<p align="center">
+
+🏢 **SAP MM**  
+<img src="https://img.shields.io/badge/SAP%20MM-75%25-1E90FF?style=for-the-badge"><br>
+Procurement • Inventory • Vendor Management • Purchase Orders • Material Master • ERP
+
+</p>
+
+<p align="center">
+
+🗄️ **SQL Server**  
+<img src="https://img.shields.io/badge/SQL%20Server-85%25-CC2927?style=for-the-badge&logo=microsoftsqlserver"><br>
+T-SQL • Stored Procedures • Indexing • Performance Tuning • ETL • Reporting
+
+</p>
