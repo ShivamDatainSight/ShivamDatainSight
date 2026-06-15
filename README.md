@@ -978,3 +978,32 @@ Procurement • Inventory • Vendor Management • Purchase Orders • Material
 T-SQL • Stored Procedures • Indexing • Performance Tuning • ETL • Reporting
 
 </p>
+
+## ⚡ SKILLS DASHBOARD ⚡
+
+<p align="center">
+
+🐍 **Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter)** |  
+🗄️ **SQL (MySQL, SQL Server, Joins, CTE, Stored Procedures, Queries, Optimization)** |  
+📊 **Power BI (DAX, Power Query, Dashboards, Data Modeling, ETL, Reports)** |  
+📈 **Advanced Excel (VLOOKUP, Pivot Tables, Macros, Power Pivot, Charts, Data Cleaning)**
+
+</p>
+
+<p align="center">
+
+🤖 **AI & ML (Regression, Classification, NLP, Feature Engineering, Model Training, Scikit-learn)** |  
+💬 **Prompt Engineering (Prompt Design, Context Control, AI Optimization, ChatGPT Workflows, Automation)** |  
+🧠 **ChatGPT (GPT-4, Data Analysis, Coding Help, Automation, Content Generation, Problem Solving)** |  
+📉 **Data Visualization (Power BI, Matplotlib, Seaborn, Tableau Basics, Charts, Storytelling)**
+
+</p>
+
+<p align="center">
+
+🔄 **Reconciliation (Financial Matching, Data Validation, Excel Reco, ERP Systems, Error Detection, Reporting)** |  
+📊 **Statistics (Probability, Hypothesis Testing, Regression, Descriptive Stats, Distributions, Analytics)** |  
+🏢 **SAP MM (Procurement, Inventory, Vendor Mgmt, Purchase Orders, Material Master, ERP)** |  
+🗄️ **SQL Server (T-SQL, Stored Procedures, Indexing, Performance Tuning, ETL, Reporting)**
+
+</p>
