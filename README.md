@@ -3,9 +3,9 @@
 
 ## 👋 About Me
 
-I am a Computer Science Engineering graduate with a specialization in Artificial Intelligence and Machine Learning, passionate about Data Science, Data Analytics, and Business Analysis. I enjoy transforming raw data into meaningful insights that support informed business decision-making.
+I am a **Computer Science Engineering (CSE) graduate** with a specialization in **Artificial Intelligence and Machine Learning**, passionate about **Data Science, Data Analytics, and Business Analysis**. I enjoy transforming raw data into meaningful insights that support informed business decision-making.
 
-I have over 2 years of professional experience as a Junior Project Engineer at Larsen & Toubro (L&T India), where I developed expertise in project management, resource planning, coordination, and execution of large-scale engineering projects. During my tenure, I worked extensively with **Advanced Excel**, **Power BI**, and **PowerPoint** for data analysis, visualization, and management reporting.
+I have over 2 years of professional experience as a **Junior Project Engineer at Larsen & Toubro (L&T India)**, where I developed strong expertise in project management, resource planning, coordination, and execution of large-scale engineering projects. During my tenure, I worked extensively with **Advanced Excel**, **Power BI**, and **PowerPoint** for data analysis, visualization, and management reporting.
 
 My responsibilities included **data reconciliation and validation** to ensure accuracy in project records, along with managing and organizing project data on internal systems. I also gained hands-on experience with **SAP MM (Material Management)** and internal platforms such as **ELPH** for engineering project data management.
 
