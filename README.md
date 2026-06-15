@@ -1,13 +1,11 @@
 **#👋 Hi there! I’m Shivam Chaudhary — Data Analyst & Data Science Enthusiast  
 #🚀 Passionate about transforming data into insights and building intelligent solutions**
 
-I am a **Computer Science Engineering graduate** with a specialization in **Artificial Intelligence** and **Machine Learning**, passionate about **Data Science, Data Analytics, and Business Analysis**. I enjoy transforming raw data into meaningful insights that support informed business decision-making.
-
-I have over 2 years of professional experience as a Junior Project Engineer at Larsen & Toubro (L&T India), where I developed expertise in project management, resource planning, coordination, and execution of large-scale engineering projects. I worked extensively with **Advanced Excel, Power BI dashboards, and PowerPoint** reporting for **data analysis, visualization**, and **management updates**.
-
+I am a **Computer Science Engineering** graduate with a specialization in Artificial Intelligence and Machine Learning, passionate about Data Science, Data Analytics, and Business Analysis. I enjoy transforming raw data into meaningful insights that support informed business decision-making.
+I have over 2 years of professional experience as a Junior Project Engineer at Larsen & Toubro (L&T India), where I developed expertise in project management, resource planning, coordination, and execution of large-scale engineering projects. I worked extensively with Advanced Excel, Power BI dashboards, and PowerPoint reporting for data analysis, visualization, and management updates.
 My responsibilities included data reconciliation and validation to ensure accuracy in project records, along with managing and organizing project data on internal systems. I also gained hands-on experience with SAP MM (Material Management) and internal platforms like ELPH for engineering project data management.
-
 Additionally, I handled engineering drawing material reconciliation and contributed to improving data accuracy, reporting efficiency, and site-level coordination.
+
 
 ## 🚀 About Me
 
