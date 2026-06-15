@@ -1,92 +1,14 @@
-## 🌟 My Skills Distribution
+<h2 align='center'> <i>Hello, Folks!</h2>  
 
-💻 Data Analytics | 🤖 ML | ☁️ Cloud | 🛠 Tools
+<img align="right" src="https://github.com/Ashutosh00710/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
 
-{
-  "$schema": "https://vega.github.io/schema/vega/v6.json",
-  "description": "A basic pie chart example.",
-  "width": 200,
-  "height": 200,
-  "autosize": "none",
+_Hello there this is **Ashutosh Dwivedi**. Working as [Senior Software Engineer](https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196/) at [Aftershoot](https://www.linkedin.com/company/aftershootco/). You can see my opensource work down below._  
 
-  "signals": [
-    {
-      "name": "startAngle", "value": 0,
-      "bind": {"input": "range", "min": 0, "max": 6.29, "step": 0.01}
-    },
-    {
-      "name": "endAngle", "value": 6.29,
-      "bind": {"input": "range", "min": 0, "max": 6.29, "step": 0.01}
-    },
-    {
-      "name": "padAngle", "value": 0,
-      "bind": {"input": "range", "min": 0, "max": 0.1}
-    },
-    {
-      "name": "innerRadius", "value": 0,
-      "bind": {"input": "range", "min": 0, "max": 90, "step": 1}
-    },
-    {
-      "name": "cornerRadius", "value": 0,
-      "bind": {"input": "range", "min": 0, "max": 10, "step": 0.5}
-    },
-    {
-      "name": "sort", "value": false,
-      "bind": {"input": "checkbox"}
-    }
-  ],
-
-  "data": [
-    {
-      "name": "table",
-      "values": [
-        {"id": 1, "field": 4},
-        {"id": 2, "field": 6},
-        {"id": 3, "field": 10},
-        {"id": 4, "field": 3},
-        {"id": 5, "field": 7},
-        {"id": 6, "field": 8}
-      ],
-      "transform": [
-        {
-          "type": "pie",
-          "field": "field",
-          "startAngle": {"signal": "startAngle"},
-          "endAngle": {"signal": "endAngle"},
-          "sort": {"signal": "sort"}
-        }
-      ]
-    }
-  ],
-
-  "scales": [
-    {
-      "name": "color",
-      "type": "ordinal",
-      "domain": {"data": "table", "field": "id"},
-      "range": {"scheme": "category20"}
-    }
-  ],
-
-  "marks": [
-    {
-      "type": "arc",
-      "from": {"data": "table"},
-      "encode": {
-        "enter": {
-          "fill": {"scale": "color", "field": "id"},
-          "x": {"signal": "width / 2"},
-          "y": {"signal": "height / 2"}
-        },
-        "update": {
-          "startAngle": {"field": "startAngle"},
-          "endAngle": {"field": "endAngle"},
-          "padAngle": {"signal": "padAngle"},
-          "innerRadius": {"signal": "innerRadius"},
-          "outerRadius": {"signal": "width / 2"},
-          "cornerRadius": {"signal": "cornerRadius"}
-        }
-      }
-    }
-  ]
-}
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
