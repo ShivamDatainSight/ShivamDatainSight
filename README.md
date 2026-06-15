@@ -1007,3 +1007,94 @@ T-SQL • Stored Procedures • Indexing • Performance Tuning • ETL • Repo
 🗄️ **SQL Server (T-SQL, Stored Procedures, Indexing, Performance Tuning, ETL, Reporting)**
 
 </p>
+
+
+
+## ⚡ SKILLS DASHBOARD ⚡
+
+<table>
+  <tr>
+
+    <td align="center">
+      <b>🐍 Python</b><br>
+      <img src="https://img.shields.io/badge/Python-90%25-00F5F5?style=for-the-badge&logo=python"><br>
+      Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • Jupyter
+    </td>
+
+    <td align="center">
+      <b>🗄️ SQL</b><br>
+      <img src="https://img.shields.io/badge/SQL-90%25-FF6B00?style=for-the-badge&logo=mysql"><br>
+      MySQL • SQL Server • Joins • CTE • Queries • Optimization
+    </td>
+
+    <td align="center">
+      <b>📊 Power BI</b><br>
+      <img src="https://img.shields.io/badge/Power%20BI-85%25-F2C811?style=for-the-badge&logo=powerbi"><br>
+      DAX • Power Query • Dashboards • Data Modeling • ETL • Reports
+    </td>
+
+    <td align="center">
+      <b>📈 Advanced Excel</b><br>
+      <img src="https://img.shields.io/badge/Advanced%20Excel-88%25-00FF7F?style=for-the-badge&logo=microsoft-excel"><br>
+      VLOOKUP • Pivot Tables • Macros • Power Pivot • Charts • Data Cleaning
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="center">
+      <b>🤖 AI & ML</b><br>
+      <img src="https://img.shields.io/badge/AI%20%26%20ML-80%25-FF00FF?style=for-the-badge"><br>
+      Regression • Classification • NLP • Feature Engineering • Scikit-learn • Models
+    </td>
+
+    <td align="center">
+      <b>💬 Prompt Engineering</b><br>
+      <img src="https://img.shields.io/badge/Prompt%20Engineering-75%25-9D00FF?style=for-the-badge"><br>
+      Prompt Design • Context Control • AI Optimization • ChatGPT Workflows • Automation
+    </td>
+
+    <td align="center">
+      <b>🧠 ChatGPT</b><br>
+      <img src="https://img.shields.io/badge/ChatGPT-99%25-00BFFF?style=for-the-badge&logo=openai"><br>
+      GPT-4 • Coding Help • Data Analysis • Content • Automation • Problem Solving
+    </td>
+
+    <td align="center">
+      <b>📉 Data Visualization</b><br>
+      <img src="https://img.shields.io/badge/Data%20Visualization-85%25-FF1493?style=for-the-badge"><br>
+      Power BI • Tableau • Matplotlib • Seaborn • Charts • Storytelling
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="center">
+      <b>🔄 Reconciliation</b><br>
+      <img src="https://img.shields.io/badge/Reconciliation-80%25-7CFC00?style=for-the-badge"><br>
+      Financial Matching • Excel Reco • ERP • Validation • Error Detection • Reporting
+    </td>
+
+    <td align="center">
+      <b>📊 Statistics</b><br>
+      <img src="https://img.shields.io/badge/Statistics-85%25-FF4500?style=for-the-badge"><br>
+      Probability • Hypothesis • Regression • Descriptive Stats • Analytics • Distributions
+    </td>
+
+    <td align="center">
+      <b>🏢 SAP MM</b><br>
+      <img src="https://img.shields.io/badge/SAP%20MM-75%25-1E90FF?style=for-the-badge"><br>
+      Procurement • Inventory • Vendor Mgmt • Purchase Orders • ERP • Material Master
+    </td>
+
+    <td align="center">
+      <b>🗄️ SQL Server</b><br>
+      <img src="https://img.shields.io/badge/SQL%20Server-85%25-CC2927?style=for-the-badge&logo=microsoftsqlserver"><br>
+      T-SQL • Indexing • Stored Proc • Performance • ETL • Reporting
+    </td>
+
+  </tr>
+
+</table>
