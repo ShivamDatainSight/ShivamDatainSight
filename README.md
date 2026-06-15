@@ -157,7 +157,69 @@ Transforming Data into Actionable Insights
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF4B4B&center=true&width=900&lines=Data+Analyst+%7C+Data+Science+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+AWS;Turning+Data+into+Actionable+Insights;Open+for+Collaboration+and+Opportunities+🚀" />
 </p>
+=============================================
+<div align="center">
 
+# 🚀 DATA ANALYTICS • DATA SCIENCE • MACHINE LEARNING
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+Data+Universe+🌍;Transforming+Data+Into+Decisions+📊;Building+Insights+With+Python+%26+SQL+🐍;Creating+Interactive+Dashboards+📈;Exploring+Machine+Learning+%26+AWS+☁️;Let's+Collaborate+%F0%9F%A4%9D" />
+
+</div>
+
+---
+
+### 💫 About Me
+
+🔹 Data Analytics & Business Intelligence Enthusiast
+
+🔹 Passionate about uncovering patterns hidden in data
+
+🔹 Skilled in Python, SQL, Excel, Power BI & Machine Learning
+
+🔹 Exploring AWS Cloud & Advanced Analytics
+
+🔹 Open to Freelance Projects, Networking & Collaborations
+
+---
+
+### ⚡ Motto
+
+> "Data is the new oil, but insights are the real fuel." 🚀
+
+<h1 align="center">🚀 Data Analyst | Data Science Enthusiast</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Transforming+Raw+Data+into+Insights+📊;Data+Analytics+%7C+Data+Science+%7C+ML+🤖;Python+%7C+SQL+%7C+Power+BI+%7C+Excel+📈;Learning+AWS+Cloud+☁️+and+Advanced+Analytics;Open+for+Collaboration+and+Opportunities+🤝" alt="Typing SVG" />
+</p>
+
+---
+
+## 🌟 Connect With Me | Let's Collaborate
+
+✨ Passionate about turning complex data into actionable insights
+
+📊 Data Analytics & Business Intelligence
+
+🤖 Machine Learning & Predictive Analytics
+
+🐍 Python | SQL | Excel | Power BI
+
+☁️ Currently Learning AWS Cloud & Advanced Analytics
+
+🤝 Open to Networking, Collaboration & Exciting Opportunities
+
+---
+
+<div align="center">
+
+### 🔥 Profile Highlights
+
+📈 Data-Driven Problem Solver  
+💡 Insight Creator  
+🚀 Continuous Learner  
+🌱 Growth Mindset  
+
+</div>
 
 
 ## 🎯 Goals
