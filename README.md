@@ -263,7 +263,13 @@ Transforming Data into Actionable Insights
 - 🐍 Skilled in Python, SQL, Excel, Power BI  
 - 🤖 Learning Machine Learning & AI  
 - ☁️ Exploring AWS Cloud & Advanced Analytics  
-- 🤝 Open for Collaboration & Projects  
+- 🤝 Open for Collaboration & Projects
+
+  # 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamDatainSight&theme=react-dark" />
+</p>
 
 
 # 🐍 Snake Animation
