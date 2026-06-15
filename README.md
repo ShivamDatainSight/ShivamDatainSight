@@ -1,7 +1,7 @@
 **#👋 Hi there! I’m Shivam Chaudhary — Data Analyst & Data Science Enthusiast  
 #🚀 Passionate about transforming data into insights and building intelligent solutions**
 
-## 👋 About Me
+## 👋 Professional Summary
 
 I am a **Computer Science Engineering (CSE) graduate** with a specialization in **Artificial Intelligence and Machine Learning**, passionate about **Data Science, Data Analytics, and Business Analysis**. I enjoy transforming raw data into meaningful insights that support informed business decision-making.
 
