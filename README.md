@@ -2,4 +2,91 @@
 
 💻 Data Analytics | 🤖 ML | ☁️ Cloud | 🛠 Tools
 
-<img src="https://quickchart.io/chart?width=450&height=300&c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22SQL%22%2C%22Python%22%2C%22Excel%22%2C%22Power%20BI%22%2C%22ML%22%2C%22Pandas%22%2C%22NumPy%22%2C%22Git%22%2C%22AWS%22%2C%22HTML%22%2C%22PM%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B18%2C17%2C15%2C12%2C10%2C8%2C7%2C6%2C5%2C5%2C7%5D%2C%22backgroundColor%22%3A%5B%22%23FF6B6B%22%2C%22%234D96FF%22%2C%22%23FFD93D%22%2C%22%2357CC99%22%2C%22%23C77DFF%22%2C%22%23FF9F1C%22%2C%22%2340E0D0%22%2C%22%23F94144%22%2C%22%233A86FF%22%2C%22%238AC926%22%2C%22%23FF4D6D%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22color%22%3A%22white%22%2C%22font%22%3A%7B%22size%22%3A10%7D%7D%7D%7D%7D%7D" width="450"/>
+{
+  "$schema": "https://vega.github.io/schema/vega/v6.json",
+  "description": "A basic pie chart example.",
+  "width": 200,
+  "height": 200,
+  "autosize": "none",
+
+  "signals": [
+    {
+      "name": "startAngle", "value": 0,
+      "bind": {"input": "range", "min": 0, "max": 6.29, "step": 0.01}
+    },
+    {
+      "name": "endAngle", "value": 6.29,
+      "bind": {"input": "range", "min": 0, "max": 6.29, "step": 0.01}
+    },
+    {
+      "name": "padAngle", "value": 0,
+      "bind": {"input": "range", "min": 0, "max": 0.1}
+    },
+    {
+      "name": "innerRadius", "value": 0,
+      "bind": {"input": "range", "min": 0, "max": 90, "step": 1}
+    },
+    {
+      "name": "cornerRadius", "value": 0,
+      "bind": {"input": "range", "min": 0, "max": 10, "step": 0.5}
+    },
+    {
+      "name": "sort", "value": false,
+      "bind": {"input": "checkbox"}
+    }
+  ],
+
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {"id": 1, "field": 4},
+        {"id": 2, "field": 6},
+        {"id": 3, "field": 10},
+        {"id": 4, "field": 3},
+        {"id": 5, "field": 7},
+        {"id": 6, "field": 8}
+      ],
+      "transform": [
+        {
+          "type": "pie",
+          "field": "field",
+          "startAngle": {"signal": "startAngle"},
+          "endAngle": {"signal": "endAngle"},
+          "sort": {"signal": "sort"}
+        }
+      ]
+    }
+  ],
+
+  "scales": [
+    {
+      "name": "color",
+      "type": "ordinal",
+      "domain": {"data": "table", "field": "id"},
+      "range": {"scheme": "category20"}
+    }
+  ],
+
+  "marks": [
+    {
+      "type": "arc",
+      "from": {"data": "table"},
+      "encode": {
+        "enter": {
+          "fill": {"scale": "color", "field": "id"},
+          "x": {"signal": "width / 2"},
+          "y": {"signal": "height / 2"}
+        },
+        "update": {
+          "startAngle": {"field": "startAngle"},
+          "endAngle": {"field": "endAngle"},
+          "padAngle": {"signal": "padAngle"},
+          "innerRadius": {"signal": "innerRadius"},
+          "outerRadius": {"signal": "width / 2"},
+          "cornerRadius": {"signal": "cornerRadius"}
+        }
+      }
+    }
+  ]
+}
