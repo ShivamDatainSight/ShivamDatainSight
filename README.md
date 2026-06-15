@@ -280,7 +280,40 @@ Transforming Data into Actionable Insights
 
 ---
 
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Let's+Connect+and+Collaborate+🚀;Data+Analytics+%7C+AI+%7C+Cloud+%7C+ML;Building+Real-World+Data+Solutions+Together" />
+
+</div>
+
+---
+
+## 🤝 CONNECT WITH ME
+
+🚀 Connect with me to explore **data-driven ideas, insights, and innovation**
+
+🤝 Let’s collaborate and build **real-world impactful solutions together**
+
+📊 Open to connecting with professionals in **Data Analytics, AI & Cloud**
+
+🌐 Let’s network, share knowledge, and grow in the world of **Data Science**
+
+💡 Open for **projects, internships, freelance & collaboration opportunities**
+
+---
+
+## ⚡ WHY CONNECT?
+
+✔ Learn Data Analytics & AI together  
+✔ Build real-world projects  
+✔ Share knowledge & experience  
+✔ Grow professionally in tech space  
+
+---
+
+## 💡 MOTTO
+
+> “Great things happen when data meets collaboration.” 🚀
 
 
 
