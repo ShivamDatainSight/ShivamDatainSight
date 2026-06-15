@@ -19,18 +19,7 @@ Additionally, I handled **engineering drawing material reconciliation** and cont
 ![Skill Growth Line Chart](https://quickchart.io/chart?width=700&height=350&c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22SQL%22%2C%22Python%22%2C%22Excel%22%2C%22Power%20BI%22%2C%22Machine%20Learning%22%2C%22AWS%22%2C%22Project%20Management%22%2C%22Prompt%20Engineering%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Core%20Skills%22%2C%22data%22%3A%5B90%2C92%2C88%2C85%2C80%2C75%2C82%2C78%5D%2C%22borderColor%22%3A%22%23FF4C4C%22%2C%22backgroundColor%22%3A%22rgba(255%2C76%2C76%2C0.08)%22%2C%22borderWidth%22%3A3%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Advanced%20Growth%20Trend%22%2C%22data%22%3A%5B70%2C75%2C78%2C80%2C82%2C85%2C88%2C90%5D%2C%22borderColor%22%3A%22%23222222%22%2C%22backgroundColor%22%3A%22rgba(0%2C0%2C0%2C0.05)%22%2C%22borderWidth%22%3A2%2C%22borderDash%22%3A%5B5%2C5%5D%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22color%22%3A%22white%22%2C%22font%22%3A%7B%22size%22%3A12%7D%7D%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22white%22%7D%7D%2C%22y%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22white%22%7D%7D%7D%7D%7D)
 
 
-## 📊 Overview (Skill Growth & Focus)
 
-💡 A visual representation of my learning & skill development journey in Data Analytics & Data Science.
-
-![Overview Line Chart](https://quickchart.io/chart?width=700&height=350&c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22SQL%22%2C%22Python%22%2C%22Excel%22%2C%22Power%20BI%22%2C%22ML%22%2C%22AWS%22%2C%22Project%20Mgmt%22%2C%22ChatGPT%20%26%20Prompt%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Skill%20Level%20Growth%22%2C%22data%22%3A%5B85%2C90%2C88%2C80%2C75%2C70%2C82%2C78%5D%2C%22borderColor%22%3A%22%2360A5FA%22%2C%22backgroundColor%22%3A%22rgba(96%2C165%2C250%2C0.1)%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22color%22%3A%22white%22%7D%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22white%22%7D%7D%2C%22y%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22white%22%7D%7D%7D%7D%7D)
-
-## 📚 Current Focus
-
-- Developing expertise in **Machine Learning**, **Deep Learning** and **Reinforcement Learning**.
-- Building projects to enhance my understanding of the practical applications of **AI**.
-- Actively learning about the latest trends in **AI/ML** and **data-driven technologies**.
-<!---
 ## 💼 Projects
 
 You can find all my public projects here on my GitHub profile. Some of the notable ones include:
