@@ -1,7 +1,13 @@
 **#👋 Hi there! I’m Shivam Chaudhary — Data Analyst & Data Science Enthusiast  
 #🚀 Passionate about transforming data into insights and building intelligent solutions**
 
- A passionate and results-oriented  **Computer Science Engineering (CSE) Graduate** with a specialization in **Artificial Intelligence and Machine Learning (AI & ML)** at **IP University**  with a strong foundation in Data Science, Business Analysis, and Data Analytics. With over 2 years of experience as an Ex-Project Engineer at L&T India, I have honed my skills in project management, resource allocation, and executing projects efficiently. My expertise includes analyzing data trends, transforming data into actionable insights, and using data-driven strategies to drive business decisions. Eager to leverage my technical skills and project management experience in the fields of Data Science.
+I am a **Computer Science Engineering graduate** with a specialization in **Artificial Intelligence** and **Machine Learning**, passionate about **Data Science, Data Analytics, and Business Analysis**. I enjoy transforming raw data into meaningful insights that support informed business decision-making.
+
+I have over 2 years of professional experience as a Junior Project Engineer at Larsen & Toubro (L&T India), where I developed expertise in project management, resource planning, coordination, and execution of large-scale engineering projects. I worked extensively with **Advanced Excel, Power BI dashboards, and PowerPoint** reporting for **data analysis, visualization**, and **management updates**.
+
+My responsibilities included data reconciliation and validation to ensure accuracy in project records, along with managing and organizing project data on internal systems. I also gained hands-on experience with SAP MM (Material Management) and internal platforms like ELPH for engineering project data management.
+
+Additionally, I handled engineering drawing material reconciliation and contributed to improving data accuracy, reporting efficiency, and site-level coordination.
 
 ## 🚀 About Me
 
