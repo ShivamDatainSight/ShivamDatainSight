@@ -288,29 +288,97 @@ Transforming Data into Actionable Insights
 
 ---
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=🚀+Let's+Connect+and+Collaborate;🤝+Building+Real-World+Data+Solutions+Together;📊+Data+Analytics+%7C+AI+%7C+ML+%7C+Cloud;🌐+Open+for+Networking+and+Opportunities" />
+
+</div>
+
+---
+
 ## 🤝 CONNECT WITH ME
 
-🚀 Connect with me to explore **data-driven ideas, insights, and innovation**
+<p align="center">
 
-🤝 Let’s collaborate and build **real-world impactful solutions together**
+🚀 Connect with me to explore <b>data-driven ideas, insights, and innovation</b><br><br>
 
-📊 Open to connecting with professionals in **Data Analytics, AI & Cloud**
+🤝 Let’s collaborate and build <b>real-world impactful solutions together</b><br><br>
 
-🌐 Let’s network, share knowledge, and grow in the world of **Data Science**
+📊 Open to connecting with professionals in <b>Data Analytics, AI & Cloud</b><br><br>
 
-💡 Open for **projects, internships, freelance & collaboration opportunities**
+🌐 Let’s network, share knowledge, and grow in the world of <b>Data Science</b><br><br>
+
+💡 Open for <b>projects, internships, freelance & collaboration opportunities</b>
+
+</p>
 
 ---
 
 ## ⚡ WHY CONNECT?
 
-✔ Learn Data Analytics & AI together  
-✔ Build real-world projects  
-✔ Share knowledge & experience  
-✔ Grow professionally in tech space  
+<p align="center">
+
+✔ Learn Data Analytics & AI together <br>
+✔ Build real-world projects <br>
+✔ Share knowledge & experience <br>
+✔ Grow professionally in tech space <br>
+
+</p>
 
 ---
 
+## 💡 MOTTO
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FFDD00&center=true&vCenter=true&width=800&lines=From+data+to+impact+💡;Great+things+happen+when+data+meets+collaboration+🚀" />
+
+</div>
+
+<div align="center">
+
+<!-- HERO ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&pause=900&color=00F5FF&center=true&vCenter=true&width=1100&lines=🚀+Let's+Build+Something+Powerful+Together;🤝+Open+for+Collaboration+%7C+AI+%7C+Data+%7C+Cloud;📊+Turning+Data+Into+Real+Impact;🌐+Networking+%7C+Learning+%7C+Growing+Together" />
+
+</div>
+
+---
+
+## 🤝 CONNECT WITH ME
+
+<p align="center">
+
+🚀 Passionate about turning **data into real-world impact**  
+🤝 Open for collaboration on **Data Science, AI & Analytics projects**  
+📊 Focused on building **data-driven business solutions**  
+🌐 Let’s connect, share ideas & grow together in tech  
+💡 Always open for **internships, freelance & opportunities**
+
+</p>
+
+---
+
+## ⚡ WHAT YOU GET BY CONNECTING
+
+<p align="center">
+
+✔ Real-world Data Projects  
+✔ AI & Machine Learning Collaboration  
+✔ Business Intelligence Insights  
+✔ Knowledge Sharing & Growth  
+✔ Professional Networking  
+
+</p>
+
+---
+
+## 💡 MOTTO (ULTRA STYLE)
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFDD00&center=true&vCenter=true&width=900&lines=From+Raw+Data+to+Real+Impact+💡;Great+Things+Happen+When+We+Collaborate+🚀;Data+is+Power+When+Used+Right+📊" />
+
+</div>
 ## 💡 MOTTO
 
 > “Great things happen when data meets collaboration.” 🚀
