@@ -277,60 +277,7 @@ Transforming Data into Actionable Insights
 </p>
 
 
-# 🐍 Snake Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ShivamDatainSight/UserName-/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Let's+Connect+and+Collaborate+🚀;Data+Analytics+%7C+AI+%7C+Cloud+%7C+ML;Building+Real-World+Data+Solutions+Together" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=🚀+Let's+Connect+and+Collaborate;🤝+Building+Real-World+Data+Solutions+Together;📊+Data+Analytics+%7C+AI+%7C+ML+%7C+Cloud;🌐+Open+for+Networking+and+Opportunities" />
-
-</div>
-
----
-
-## 🤝 CONNECT WITH ME
-
-<p align="center">
-
-🚀 Connect with me to explore <b>data-driven ideas, insights, and innovation</b><br><br>
-
-🤝 Let’s collaborate and build <b>real-world impactful solutions together</b><br><br>
-
-📊 Open to connecting with professionals in <b>Data Analytics, AI & Cloud</b><br><br>
-
-🌐 Let’s network, share knowledge, and grow in the world of <b>Data Science</b><br><br>
-
-💡 Open for <b>projects, internships, freelance & collaboration opportunities</b>
-
-</p>
-
----
-
-## ⚡ WHY CONNECT?
-
-<p align="center">
-
-✔ Learn Data Analytics & AI together <br>
-✔ Build real-world projects <br>
-✔ Share knowledge & experience <br>
-✔ Grow professionally in tech space <br>
-
-</p>
-
----
 
 ## 💡 MOTTO
 
@@ -361,64 +308,20 @@ Transforming Data into Actionable Insights
 
 </p>
 
----
 
-## ⚡ WHAT YOU GET BY CONNECTING
 
-<p align="center">
-
-✔ Real-world Data Projects  
-✔ AI & Machine Learning Collaboration  
-✔ Business Intelligence Insights  
-✔ Knowledge Sharing & Growth  
-✔ Professional Networking  
-
-</p>
-
----
-
-## 💡 MOTTO (ULTRA STYLE)
+## 💡 MOTTO 
 
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFDD00&center=true&vCenter=true&width=900&lines=From+Raw+Data+to+Real+Impact+💡;Great+Things+Happen+When+We+Collaborate+🚀;Data+is+Power+When+Used+Right+📊" />
 
-</div>
-## 💡 MOTTO
-
-> “Great things happen when data meets collaboration.” 🚀
-
-
-
-## 🎯 Goals
-
-- Contribute to open-source projects and collaborate with other developers.
-- Build and improve AI/ML models and applications that solve real-world problems.
-- Expand my knowledge and skills in the rapidly evolving tech landscape.
-
-## 📑 Education
-
-- **B.Tech in Computer Science & Engineering (AIML)**, IP  University — [2021 - 2024] 
-- **G.B. Pant Institute of Technology (Diploma)** ,Board of Technical Education , Delhi— [2016-2019]
-
-<div align="center">
 
 # ⚡ Shivam | Data Analyst | AI & Data Science Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&width=1000&lines=Data+Analytics+%7C+Business+Intelligence+%7C+AI;Python+%7C+SQL+%7C+Power+BI+%7C+Cloud;Turning+Data+Into+Real+Business+Impact" />
 
 </div>
-
-
-
-
-# 📈 ACTIVITY GRAPH
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamDatainSight&theme=github-compact"/>
-
-</p>
 
 
 ## ⚡ Expertise Matrix ⚡
