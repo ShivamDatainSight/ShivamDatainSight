@@ -23,6 +23,33 @@
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=18&pause=1000&color=00BCD4&background=0D1117&center=true&width=950&lines=Data+Analyst+%7C+Data+Science+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Prompt+Engineering+%7C+ChatGPT+%7C+AI;Statistics+%7C+Charts+%7C+Dashboards;Turning+Data+Into+Real+Business+Impact" />
+1==================
+<h1 align="center" style="font-family: Calibri, Arial, sans-serif;">
+⚡ Shivam Chaudhary
+</h1>
+
+<h3 align="center">
+📊 Data Analyst | Data Science Enthusiast | AI Explorer
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=18&pause=1000&color=00BCD4&background=0D1117&center=true&width=900&lines=Transforming+Data+Into+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Advanced+Excel;Statistics+%7C+Charts+%7C+Dashboards;Prompt+Engineering+%7C+ChatGPT+%7C+AI+Automation;Building+Data+Driven+Solutions" />
+</p>
+
+2=====================
+<img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=18&pause=1000&color=00BCD4&background=0D1117&center=true&width=900&lines=Shivam+Chaudhary+%7C+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Statistics+%7C+Charts+%7C+Dashboards;Prompt+Engineering+%7C+ChatGPT+%7C+AI;Turning+Data+Into+Insights" />
+
+3================
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=A78BFA&background=050505&center=true&width=900&lines=AI+%26+Data+Explorer;Building+Smart+Solutions;Machine+Learning+%7C+Automation;Prompt+Engineering+%7C+LLMs;Future+Driven+By+Data" />
+
+4========
+<img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=18&pause=1200&color=00E676&background=0B0F14&center=true&width=900&lines=Data+Analyst+Mindset;Finding+Patterns+In+Data;Power+BI+%7C+SQL+%7C+Excel;Reports+%7C+KPIs+%7C+Insights;Data+Driven+Decisions" />
+
+5==============
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=900&color=FF6B6B&background=000000&center=true&width=900&lines=%3E+Analyzing_Data...;%3E+Building_Dashboards...;%3E+Training_AI...;%3E+Solving_Problems...;Welcome_To_My_Profile" />
+
+6======================
+<img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=18&pause=1500&color=E5E7EB&background=111111&center=true&width=900&lines=Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+BI;AI+%7C+Automation+%7C+Insights;Charts+Speak+Louder+Than+Words;Always+Learning" />
 
 #🚀 Passionate about transforming data into insights and building intelligent solutions**
 
