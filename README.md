@@ -902,7 +902,7 @@ Transforming Data into Actionable Insights
 
 📊 **Power BI**  
 <img src="https://img.shields.io/badge/Power%20BI-85%25-F2C811?style=for-the-badge&logo=powerbi"><br>
-DAX • Power Query • Dashboards • Data Modeling • ETL • Reports
+DAX • Power Query • Dashboards • Data Modeling • ETL • Reports • Data Cleaning & Processing
 
 </p>
 
@@ -924,7 +924,7 @@ DAX • Power Query • Dashboards • Data Modeling • ETL • Reports
 
 💬 **Prompt Engineering**  
 <img src="https://img.shields.io/badge/Prompt%20Engineering-75%25-9D00FF?style=for-the-badge"><br>
-Prompt Design • AI Optimization • Context Control • ChatGPT Workflows • Automation • AI Tools
+• Prompt Design • AI Optimization • AI Tools • Prompt Testing • LLM Interaction • Instruction Tuning • Workflow Automation
 
 </p>
 
@@ -932,8 +932,7 @@ Prompt Design • AI Optimization • Context Control • ChatGPT Workflows • 
 
 🧠 **ChatGPT / AI Tools**  
 <img src="https://img.shields.io/badge/ChatGPT-99%25-00BFFF?style=for-the-badge&logo=openai"><br>
-GPT-4 • Data Analysis • Content Generation • Coding Help • Automation • Problem Solving
-
+• GPT-4 • Data Analysis • Content Generation • Coding Help • Automation • Problem Solving • Productivity Tools
 </p>
 
 <p align="center">
@@ -948,8 +947,8 @@ Power BI • Matplotlib • Seaborn • Tableau Basics • Charts • Dashboards
 
 🔄 **Reconciliation**  
 <img src="https://img.shields.io/badge/Reconciliation-80%25-7CFC00?style=for-the-badge"><br>
-Financial Matching • Data Validation • Excel Reco • ERP Systems • Error Detection • Reports
-
+• Excel Reconciliation • VLOOKUP • XLOOKUP • Pivot Tables • Data Validation • Conditional Formatting • Data Cleaning 
+• Duplicate Detection • Error Checking • Reports • Excel Dashboards
 </p>
 
 <p align="center">
@@ -964,17 +963,12 @@ Probability • Hypothesis Testing • Regression • Descriptive Stats • Dist
 
 🏢 **SAP MM**  
 <img src="https://img.shields.io/badge/SAP%20MM-75%25-1E90FF?style=for-the-badge"><br>
-Procurement • Inventory • Vendor Management • Purchase Orders • Material Master • ERP
+• Procurement • Inventory • Vendor Management • Purchase Orders • Material Master • ERP • Stock Management • SAP
+• Supplier Coordination • Data Reporting 
 
 </p>
 
-<p align="center">
 
-🗄️ **SQL Server**  
-<img src="https://img.shields.io/badge/SQL%20Server-85%25-CC2927?style=for-the-badge&logo=microsoftsqlserver"><br>
-T-SQL • Stored Procedures • Indexing • Performance Tuning • ETL • Reporting
-
-</p>
 
 
 
