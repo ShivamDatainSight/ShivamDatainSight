@@ -277,51 +277,11 @@ Transforming Data into Actionable Insights
 </p>
 
 
-
-
-## 💡 MOTTO
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FFDD00&center=true&vCenter=true&width=800&lines=From+data+to+impact+💡;Great+things+happen+when+data+meets+collaboration+🚀" />
-
-</div>
-
-<div align="center">
-
-<!-- HERO ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&pause=900&color=00F5FF&center=true&vCenter=true&width=1100&lines=🚀+Let's+Build+Something+Powerful+Together;🤝+Open+for+Collaboration+%7C+AI+%7C+Data+%7C+Cloud;📊+Turning+Data+Into+Real+Impact;🌐+Networking+%7C+Learning+%7C+Growing+Together" />
-
-</div>
-
----
-
-## 🤝 CONNECT WITH ME
-
-<p align="center">
-
-🚀 Passionate about turning **data into real-world impact**  
-🤝 Open for collaboration on **Data Science, AI & Analytics projects**  
-📊 Focused on building **data-driven business solutions**  
-🌐 Let’s connect, share ideas & grow together in tech  
-💡 Always open for **internships, freelance & opportunities**
-
-</p>
-
-
-
 ## 💡 MOTTO 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFDD00&center=true&vCenter=true&width=900&lines=From+Raw+Data+to+Real+Impact+💡;Great+Things+Happen+When+We+Collaborate+🚀;Data+is+Power+When+Used+Right+📊" />
-
-
-# ⚡ Shivam | Data Analyst | AI & Data Science Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&width=1000&lines=Data+Analytics+%7C+Business+Intelligence+%7C+AI;Python+%7C+SQL+%7C+Power+BI+%7C+Cloud;Turning+Data+Into+Real+Business+Impact" />
-
-</div>
+<img src="https://readme-typing-svg.rokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFDD00&center=true&vCenter=true&width=900&lines=From+Raw+Data+to+Real+Impact+💡;Great+Things+Happen+When+We+Collaborate+🚀;Data+is+Power+When+Used+Right+📊" />
 
 
 ## ⚡ Expertise Matrix ⚡
