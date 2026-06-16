@@ -27,7 +27,7 @@ Additionally, I handled **engineering drawing material reconciliation** and cont
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Learning+Never+Stops;Building+Strong+Tech+Foundation;From+Diploma+to+Data+Science+Journey;Engineering+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Learning+Never+Stops;Building+Strong+Tech+Foundation;From+Diploma+to+Engineering+Journey;Continuous+Growth+%7C+Continuous+Improvement" />
 
 <br>
 
@@ -37,29 +37,17 @@ Additionally, I handled **engineering drawing material reconciliation** and cont
 
 ## 🎓 Academic Background
 
-### 🚀 B.Tech in Computer Science & Engineering (AIML)
+### 🚀 B.Tech in Computer Science & Engineering  
 **Guru Gobind Singh Indraprastha University (IPU)**  
 📅 *2021 - 2024*  
 📍 Delhi, India  
 
-✨ Focus Areas:
-- Artificial Intelligence & Machine Learning  
-- Data Structures & Algorithms  
-- Data Analytics & Visualization  
-- Python, SQL & Data Science Fundamentals  
-
 ---
 
-### 🛠 Diploma in Engineering
+### 🛠 Diploma in Engineering  
 **G.B. Pant Institute of Technology**  
 📅 *2016 - 2019*  
 📍 Delhi, India  
-
-✨ Foundation Built In:
-- Engineering Basics  
-- Programming Fundamentals  
-- Technical Problem Solving  
-- Logical & Analytical Thinking  
 
 ---
 
@@ -69,10 +57,9 @@ Additionally, I handled **engineering drawing material reconciliation** and cont
 
 <br>
 
-### 💡 *"Education is not just degrees, it's continuous growth."*
+### 💡 *"Education is not just about degrees, it's about continuous growth."*
 
 </div>
-
 
 <!---
 ## 💼 Projects
