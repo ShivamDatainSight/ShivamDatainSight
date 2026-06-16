@@ -299,11 +299,7 @@ Procurement • Inventory Management • Vendor Management • Purchase Orders �
 
 ---
 
-### 🌟 MY MISSION
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=00E5FF&center=true&vCenter=true&width=900&lines=From+Messy+Data+to+Clean+Insights;Turning+Information+into+Intelligence;Driving+Decisions+with+Data" />
-
-</div>
 
 
 
