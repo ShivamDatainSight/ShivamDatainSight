@@ -978,3 +978,12 @@ Procurement • Inventory • Vendor Management • Purchase Orders • Material
 T-SQL • Stored Procedures • Indexing • Performance Tuning • ETL • Reporting
 
 </p>
+
+
+<h3>🐍 Python</h3>
+
+<img src="https://img.shields.io/badge/Python-90%25-00F5F5?style=for-the-badge&logo=python">
+
+<p>
+Jupyter • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • Git • Streamlit • Plotly
+</p>
