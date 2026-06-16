@@ -380,15 +380,13 @@ Procurement • Inventory Management • Vendor Management • Purchase Orders �
 
 ---
 
-
-````markdown
 ## 💡 MOTTO
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1200&color=FFD700&center=true&vCenter=true&width=1000&lines=📊+Turning+Raw+Data+into+Actionable+Insights;🚀+Building+Solutions+That+Create+Real+Impact;💡+Data+Driven+Decisions+for+Smarter+Growth;🤝+Great+Things+Happen+When+We+Collaborate;📈+Transforming+Complexity+into+Clarity;⚡+Learning%2C+Building%2C+Improving+Every+Day;🎯+Where+Analytics+Meets+Innovation" />
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Data%20Analytics-Expert-00C4CC?style=for-the-badge&logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Business%20Intelligence-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -407,14 +405,18 @@ Procurement • Inventory Management • Vendor Management • Purchase Orders �
 │          ↓                                   │
 │  📈 Create Business Impact                   │
 └──────────────────────────────────────────────┘
-````
+```
 
 ### 🌟 My Mission
 
-*"Transforming data into meaningful insights,
+*"Transforming data into meaningful insights,  
 insights into decisions, and decisions into impact."*
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:FFD700&height=120&section=header&text=Data%20%7C%20Insights%20%7C%20Impact&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+</p>
 ```
 
 
