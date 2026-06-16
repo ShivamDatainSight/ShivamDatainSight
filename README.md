@@ -423,3 +423,67 @@ Procurement • Inventory Management • Vendor Management • Purchase Orders �
 
 
 
+
+
+
+
+## 💡 MOTTO
+
+<div align="center">
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=00F5FF&center=true&vCenter=true&width=1000&lines=Turning+Raw+Data+into+Powerful+Insights;Building+Data+Driven+Solutions;Transforming+Complex+Data+into+Clarity;From+Data+to+Decisions+to+Impact;Automating+Workflows+with+AI+%26 Analytics;Learning+%7C+Building+%7C+Innovating" />
+
+<br>
+
+<!-- Data Visualization Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F2C,100:00C4CC&height=160&section=header&text=DATA%20ANALYTICS%20PIPELINE&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+
+<br>
+
+<!-- Data Icons Row -->
+<img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,powerbi,git,github" />
+
+<br><br>
+
+---
+
+### 📊 DATA PIPELINE VISUAL
+
+<!-- Pipeline Flow Image -->
+<img src="https://user-images.githubusercontent.com/74038190/212262338-8f0d5a0b-8a0f-4b6b-9a3b-4c7c2f8c3c4f.gif" width="700"/>
+
+<br>
+
+```text
+┌──────────────┐     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
+│   DATA       │ →   │  CLEANING    │ →   │  ANALYSIS    │ →   │  INSIGHTS    │
+│ (Raw Input)  │     │ (Processing) │     │ (Modeling)   │     │ (Visualization)
+└──────────────┘     └──────────────┘     └──────────────┘     └──────────────┘
+                                                                      ↓
+                                                               ┌──────────────┐
+                                                               │   IMPACT     │
+                                                               │ (Decision)   │
+                                                               └──────────────┘
+```
+
+---
+
+### 📈 REAL-TIME DATA FLOW
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+---
+
+### 🌟 MY MISSION
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=00C4CC&center=true&vCenter=true&width=900&lines=Turning+Data+Into+Business+Value;Insights+That+Drive+Growth;Decisions+That+Create+Impact" />
+
+</div>
+
+
+
+
+
+
+
