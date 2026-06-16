@@ -380,7 +380,156 @@ Procurement • Inventory Management • Vendor Management • Purchase Orders �
 
 ---
 
-## 🎯 Core Strengths
+````markdown
+<h1 align="center">
+  Hi 👋, I'm Your Name
+</h1>
+
+<h3 align="center">
+🚀 Data Analyst | Python Developer | Power BI Enthusiast | AI Explorer
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+Developer;Data+Analyst;Power+BI+Dashboard+Creator;Machine+Learning+Enthusiast;Prompt+Engineer;SAP+MM+Professional" />
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=python" width="60"/><br>
+<b>Python</b><br>
+90%
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=mysql" width="60"/><br>
+<b>SQL</b><br>
+90%
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://img.icons8.com/color/96/power-bi.png" width="60"/><br>
+<b>Power BI</b><br>
+85%
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="60"/><br>
+<b>Excel</b><br>
+88%
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="60"/><br>
+<b>AI & ML</b><br>
+80%
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Expertise Matrix
+
+```text
+Python           ██████████████████░░ 90%
+SQL              ██████████████████░░ 90%
+Power BI         █████████████████░░░ 85%
+Advanced Excel   █████████████████░░░ 88%
+AI & ML          ███████████████░░░░░ 80%
+Statistics       █████████████████░░░ 85%
+SAP MM           ██████████████░░░░░░ 75%
+ChatGPT & AI     ████████████████████ 99%
+````
+
+---
+
+## 🛠 Tools & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,vscode,anaconda,sklearn" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## 💡 Core Competencies
+
+✨ Data Analysis
+✨ Business Intelligence
+✨ Dashboard Development
+✨ Machine Learning
+✨ Data Visualization
+✨ Prompt Engineering
+✨ Process Automation
+✨ SAP MM Operations
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+<h3 align="center">
+⭐ Turning Data into Insights & Ideas into Solutions ⭐
+</h3>
+```
+
 
 - 📊 Data Analysis & Business Intelligence
 - 📈 Dashboard Development
