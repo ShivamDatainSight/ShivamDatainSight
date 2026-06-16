@@ -284,94 +284,109 @@ Transforming Data into Actionable Insights
 <img src="https://readme-typing-svg.rokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFDD00&center=true&vCenter=true&width=900&lines=From+Raw+Data+to+Real+Impact+💡;Great+Things+Happen+When+We+Collaborate+🚀;Data+is+Power+When+Used+Right+📊" />
 
 
-## ⚡ Expertise Matrix ⚡
+# 🚀 Skills & Expertise
 
-<p align="center">
+## 🐍 Python
+![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-🐍 **Python**  
-<img src="https://img.shields.io/badge/Python-90%25-00F5F5?style=for-the-badge&logo=python"><br>
- • Jupyter • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • Git • Streamlit • Plotly • VS Code • Anaconda
+**Tools & Libraries:**  
+Jupyter Notebook • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • Streamlit • Plotly • Git • VS Code • Anaconda
 
-</p>
+---
 
-<p align="center">
+## 🗄️ SQL
+![SQL](https://img.shields.io/badge/SQL-90%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-🗄️ **SQL**  
-<img src="https://img.shields.io/badge/SQL-90%25-FF6B00?style=for-the-badge&logo=mysql"><br>
- • Power BI • Power Query • DAX • Dashboard Design • Reports • Visualizations • Slicers • Filters • Excel Integration
-</p>
+**Skills:**  
+Database Querying • Joins • Stored Procedures • Data Extraction • Data Analysis • Data Modeling
 
-<p align="center">
+**Tools:**  
+MySQL • SQL Server • Power BI • Power Query • Excel Integration
 
-📊 **Power BI**  
-<img src="https://img.shields.io/badge/Power%20BI-85%25-F2C811?style=for-the-badge&logo=powerbi"><br>
-DAX • Power Query • Dashboards • Data Modeling • ETL • Reports • Data Cleaning & Processing
+---
 
-</p>
+## 📊 Power BI
+![Power BI](https://img.shields.io/badge/Power_BI-85%25-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<p align="center">
+**Skills:**  
+DAX • Power Query • Data Modeling • ETL • Dashboard Design • Reports • Data Visualization • Data Cleaning
 
-📈 **Advanced Excel**  
-<img src="https://img.shields.io/badge/Advanced%20Excel-88%25-00FF7F?style=for-the-badge&logo=microsoft-excel"><br>
-• VLOOKUP • XLOOKUP • Pivot Tables • Power Pivot • Data Cleaning • Charts • Data Validation • Filters • Excel Dashboard
-</p>
+---
 
-<p align="center">
+## 📈 Advanced Excel
+![Excel](https://img.shields.io/badge/Advanced_Excel-88%25-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-🤖 **AI & ML**  
-<img src="https://img.shields.io/badge/AI%20%26%20ML-80%25-FF00FF?style=for-the-badge"><br>
-•Regression • Classification • Clustering •  Model Training • Feature Engineering • Data Cleaning •  Scikit-learn • Jupyter
-</p>
+**Skills:**  
+VLOOKUP • XLOOKUP • Pivot Tables • Power Pivot • Data Validation • Data Cleaning • Charts • Filters • Interactive Dashboards
 
-<p align="center">
+---
 
-💬 **Prompt Engineering**  
-<img src="https://img.shields.io/badge/Prompt%20Engineering-75%25-9D00FF?style=for-the-badge"><br>
-• Prompt Design • AI Optimization • AI Tools • Prompt Testing • LLM Interaction • Instruction Tuning • Workflow Automation
+## 🤖 AI & Machine Learning
+![AI & ML](https://img.shields.io/badge/AI_&_ML-80%25-FF6F00?style=for-the-badge)
 
-</p>
+**Skills:**  
+Regression • Classification • Clustering • Feature Engineering • Model Training • Model Evaluation • Scikit-learn • Jupyter
 
-<p align="center">
+---
 
-🧠 **ChatGPT / AI Tools**  
-<img src="https://img.shields.io/badge/ChatGPT-99%25-00BFFF?style=for-the-badge&logo=openai"><br>
-• GPT-4 • Data Analysis • Content Generation • Coding Help • Automation • Problem Solving • Productivity Tools
-</p>
+## 💬 Prompt Engineering
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-75%25-9D00FF?style=for-the-badge)
 
-<p align="center">
+**Skills:**  
+Prompt Design • AI Optimization • Instruction Tuning • Workflow Automation • Prompt Testing • LLM Interaction
 
-📉 **Data Visualization**  
-<img src="https://img.shields.io/badge/Data%20Visualization-85%25-FF1493?style=for-the-badge"><br>
-Power BI • Matplotlib • Seaborn • Tableau Basics • Charts • Dashboards
+---
 
-</p>
+## 🧠 ChatGPT & AI Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-99%25-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
-<p align="center">
+**Skills:**  
+GPT-4 • Data Analysis • Automation • Coding Assistance • Content Generation • Productivity Enhancement • Problem Solving
 
-🔄 **Reconciliation**  
-<img src="https://img.shields.io/badge/Reconciliation-80%25-7CFC00?style=for-the-badge"><br>
-• Excel Reconciliation • VLOOKUP • XLOOKUP • Pivot Tables • Data Validation • Conditional Formatting • Data Cleaning 
-• Duplicate Detection • Error Checking • Reports • Excel Dashboards
-</p>
+---
 
-<p align="center">
+## 📉 Data Visualization
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-85%25-E91E63?style=for-the-badge)
 
-📊 **Statistics**  
-<img src="https://img.shields.io/badge/Statistics-85%25-FF4500?style=for-the-badge"><br>
-Probability • Hypothesis Testing • Regression • Descriptive Stats • Distributions • Analytics
+**Tools:**  
+Power BI • Matplotlib • Seaborn • Tableau (Basic)
 
-</p>
+**Skills:**  
+Interactive Dashboards • Business Reports • KPI Tracking • Analytical Charts
 
-<p align="center">
+---
 
-🏢 **SAP MM**  
-<img src="https://img.shields.io/badge/SAP%20MM-75%25-1E90FF?style=for-the-badge"><br>
-• Procurement • Inventory • Vendor Management • Purchase Orders • Material Master • ERP • Stock Management • SAP
-• Supplier Coordination • Data Reporting 
+## 🔄 Reconciliation
+![Reconciliation](https://img.shields.io/badge/Reconciliation-80%25-32CD32?style=for-the-badge)
 
-</p>
+**Skills:**  
+Excel Reconciliation • VLOOKUP • XLOOKUP • Duplicate Detection • Data Validation • Error Checking • Reporting • Dashboard Creation
 
+---
 
+## 📊 Statistics
+![Statistics](https://img.shields.io/badge/Statistics-85%25-FF4500?style=for-the-badge)
 
+**Skills:**  
+Probability • Hypothesis Testing • Regression Analysis • Descriptive Statistics • Data Analytics • Statistical Modeling
 
+---
 
+## 🏢 SAP MM
+![SAP MM](https://img.shields.io/badge/SAP_MM-75%25-1E90FF?style=for-the-badge)
+
+**Skills:**  
+Procurement • Inventory Management • Vendor Management • Purchase Orders • Material Master • Stock Management • Supplier Coordination • Reporting
+
+---
+
+## 🎯 Core Strengths
+
+- 📊 Data Analysis & Business Intelligence
+- 📈 Dashboard Development
+- 🧹 Data Cleaning & Transformation
+- 🤖 Machine Learning Fundamentals
+- ⚡ Business Process Automation
+- 📉 Statistical Analysis
+- 🏭 Procurement & Supply Chain Operations
+- 🧠 AI-Powered Productivity Solutions
