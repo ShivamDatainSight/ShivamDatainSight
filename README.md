@@ -887,7 +887,7 @@ Transforming Data into Actionable Insights
 
 🐍 **Python**  
 <img src="https://img.shields.io/badge/Python-90%25-00F5F5?style=for-the-badge&logo=python"><br>
-Jupyter • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • Git • Streamlit • Plotly
+ • Jupyter • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • Git • Streamlit • Plotly • VS Code • Anaconda
 
 </p>
 
@@ -895,8 +895,7 @@ Jupyter • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • Git
 
 🗄️ **SQL**  
 <img src="https://img.shields.io/badge/SQL-90%25-FF6B00?style=for-the-badge&logo=mysql"><br>
-MySQL • SQL Server • Joins • CTE • Subqueries • Stored Procedures
-
+ • Power BI • Power Query • DAX • Dashboard Design • Reports • Visualizations • Slicers • Filters • Excel Integration
 </p>
 
 <p align="center">
@@ -911,16 +910,14 @@ DAX • Power Query • Dashboards • Data Modeling • ETL • Reports
 
 📈 **Advanced Excel**  
 <img src="https://img.shields.io/badge/Advanced%20Excel-88%25-00FF7F?style=for-the-badge&logo=microsoft-excel"><br>
-VLOOKUP • Pivot Tables • Macros • Power Pivot • Data Cleaning • Charts
-
+• VLOOKUP • XLOOKUP • Pivot Tables • Power Pivot • Data Cleaning • Charts • Data Validation • Filters • Excel Dashboard
 </p>
 
 <p align="center">
 
 🤖 **AI & ML**  
 <img src="https://img.shields.io/badge/AI%20%26%20ML-80%25-FF00FF?style=for-the-badge"><br>
-Regression • Classification • NLP • Model Training • Feature Engineering • Scikit-learn
-
+•Regression • Classification • Clustering •  Model Training • Feature Engineering • Data Cleaning •  Scikit-learn • Jupyter
 </p>
 
 <p align="center">
@@ -980,16 +977,4 @@ T-SQL • Stored Procedures • Indexing • Performance Tuning • ETL • Repo
 </p>
 
 
-<h3>🐍 Python</h3>
 
-<img src="https://img.shields.io/badge/Python-90%25-00F5F5?style=for-the-badge&logo=python"><br><br>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square">
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white">
