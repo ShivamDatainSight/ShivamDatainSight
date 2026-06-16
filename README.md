@@ -1,4 +1,6 @@
-# ⚡ Hi, I'm Shivam Chaodhary  
+<div align="center">
+
+# ⚡ Hi, I'm Shivam Chaudhary  
 
 ### 📊 Data Analyst | 📈 BI Developer | 🤖 Data Science Enthusiast
 
