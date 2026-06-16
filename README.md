@@ -82,16 +82,6 @@ Feel free to check them out and contribute if you're interested! -->
 - 🔹 Passionate about **Analytics, Automation & AI-driven decision making**
 - 🔹 Open to **collaborations, networking, internships & full-time opportunities**
 
----
-
-
-# 🚀 DATA ANALYTICS • DATA SCIENCE • MACHINE LEARNING
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+Data+Universe+🌍;Transforming+Data+Into+Decisions+📊;Building+Insights+With+Python+%26+SQL+🐍;Creating+Interactive+Dashboards+📈;Exploring+Machine+Learning+%26+AWS+☁️;Let's+Collaborate+%F0%9F%A4%9D" />
-
-</div>
-
----
 
 
   # 📈 Contribution Graph
