@@ -304,3 +304,13 @@ Procurement • Inventory Management • Vendor Management • Purchase Orders �
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=00E5FF&center=true&vCenter=true&width=900&lines=From+Messy+Data+to+Clean+Insights;Turning+Information+into+Intelligence;Driving+Decisions+with+Data" />
 
 </div>
+
+
+
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F5F7FA,100:DDE6F5&height=220&section=header&text=Shivam%20Chaudhary&fontSize=40&fontColor=1F2A44&animation=fadeIn" />
+
+</div>
