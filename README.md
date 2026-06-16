@@ -1,4 +1,9 @@
-**#👋 Hi there! I’m Shivam Chaudhary — Data Analyst & Data Science Enthusiast  
+# ⚡ Hi there! I’m Shivam Chaudhary — Data Analyst & Data Science Enthusiast 
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&width=1000&lines=Data+Analytics+%7C+Business+Intelligence+%7C+AI;Python+%7C+SQL+%7C+Power+BI+%7C+Cloud;Turning+Data+Into+Real+Business+Impact" />
+
+</div>
+
 #🚀 Passionate about transforming data into insights and building intelligent solutions**
 
 ## 🎯 Professional Summary
@@ -404,47 +409,8 @@ Transforming Data into Actionable Insights
 
 </div>
 
----
 
-# 👨‍💻 ABOUT ME
 
-📊 Data Analyst focused on real-world business insights  
-🐍 Skilled in Python, SQL, Excel, Power BI  
-🤖 Exploring Machine Learning & AI solutions  
-☁️ Learning AWS Cloud & Data Engineering basics  
-🚀 Passionate about turning data into decisions  
-
----
-
-# ⚙️ SKILLS
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</p>
-
----
-
-# 📊 GITHUB STATS
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShivamDatainSight&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamDatainSight&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 📈 ACTIVITY GRAPH
 
@@ -453,112 +419,6 @@ Transforming Data into Actionable Insights
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamDatainSight&theme=github-compact"/>
 
 </p>
-
----
-
-# 🐍 SNAKE CONTRIBUTION
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ShivamDatainSight/UserName-/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 🚀 PROJECTS (IMPORTANT)
-
-✔ Sales Dashboard (Power BI)  
-✔ Data Cleaning Project (Python Pandas)  
-✔ SQL Data Analysis Project  
-✔ Machine Learning Prediction Model  
-
----
-
-# 🌐 CONNECT WITH ME
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-
-</p>
-
----
-
-# 💡 MOTTO
-
-> “From data to impact 🚀”
->
-> <div align="center">
-
-# ⚡ SHIVAM // DATA SYSTEM ONLINE ⚡
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&pause=900&color=00F5FF&center=true&vCenter=true&width=1100&lines=SYSTEM+BOOTING...;DATA+ANALYST+LOADED;PYTHON+%7C+SQL+%7C+POWER+BI+ACTIVE;ADVANCED+EXCEL+%7C+VISUALIZATION+ONLINE;TURNING+DATA+INTO+POWER+🚀" />
-
-</div>
-
----
-
-# 🧠 SYSTEM PROFILE
-
-🚀 STATUS: ONLINE  
-📊 DATA ENGINE: ACTIVE  
-🤖 ANALYTICS MODE: ENABLED  
-⚡ VISUALIZATION CORE: RUNNING  
-
----
-
-# ⚙️ CORE SKILLS MATRIX
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-00F5FF?style=for-the-badge&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-9D00FF?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Advanced%20Excel-00FF7F?style=for-the-badge&logo=microsoft-excel&logoColor=black"/>
-<img src="https://img.shields.io/badge/Power%20BI-FFD700?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-FF00FF?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-
-</p>
-
----
-
-# 📊 GITHUB STATS (NEON MODE)
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShivamDatainSight&show_icons=true&theme=radical&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamDatainSight&theme=radical&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 CYBER ACTIVITY GRID
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamDatainSight&theme=react-dark"/>
-
-</p>
-
----
-
-# 🐍 NEON CONTRIBUTION SNAKE
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ShivamDatainSight/UserName-/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
 
 
 ## ⚡ Expertise Matrix ⚡
