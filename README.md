@@ -85,32 +85,6 @@ Feel free to check them out and contribute if you're interested! -->
 ---
 
 
-
-
-
-
-## 🚀 DATA ANALYTICS JOURNEY
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=800&color=FF4D4D&center=true&width=800&lines=Transforming+Data+into+Insights;Building+Real-World+Projects;Open+for+Data+Analytics+Opportunities" />
-</p>
-
-<p align="center">
-  📊 Data Analytics • 📈 Business Intelligence • 🤖 Data Science
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF4B4B&center=true&width=900&lines=Data+Analyst+%7C+Data+Science+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+AWS;Turning+Data+into+Actionable+Insights;Open+for+Collaboration+and+Opportunities+🚀" />
-</p>
-=============================================
-<div align="center">
-
-
-
-
-============================1
-
-
 # 🚀 DATA ANALYTICS • DATA SCIENCE • MACHINE LEARNING
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+Data+Universe+🌍;Transforming+Data+Into+Decisions+📊;Building+Insights+With+Python+%26+SQL+🐍;Creating+Interactive+Dashboards+📈;Exploring+Machine+Learning+%26+AWS+☁️;Let's+Collaborate+%F0%9F%A4%9D" />
