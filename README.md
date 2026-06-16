@@ -7,7 +7,7 @@
 
 
 
-# ⚡ Hi there! I’m Shivam Chaudhary — Data Analyst & Data Science Enthusiast 
+# ⚡ Hi ! I’m Shivam Chaudhary — Data Analyst & Data Science Enthusiast 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&width=1000&lines=Data+Analytics+%7C+Business+Intelligence+%7C+AI;Python+%7C+SQL+%7C+Power+BI+%7C+Cloud;Turning+Data+Into+Real+Business+Impact" />
 
