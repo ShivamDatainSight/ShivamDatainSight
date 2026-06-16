@@ -4,6 +4,35 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=18&pause=1000&color=4FC3F7&center=true&width=850&lines=Data+Analytics+%7C+Business+Intelligence+%7C+AI;Python+%7C+SQL+%7C+Power+BI+%7C+Cloud;Turning+Data+Into+Real+Business+Impact" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=800&color=39FF14&background=050505&center=true&width=900&lines=Loading+Data...;Cleaning+Data...;Finding+Patterns...;Building+Models...;Delivering+Insights" />
 
+
+<div align="center">
+
+# ⚡ Hi, I'm Shivam Chaudhary  
+
+### 📊 Data Analyst | 📈 BI Developer | 🤖 Data Science Enthusiast
+
+<br>
+
+<!-- Main animated headline -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Turning+Raw+Data+Into+Actionable+Insights;Building+Smart+Data+Driven+Solutions;Exploring+Data+Science+%7C+AI+%7C+Analytics;Creating+Business+Impact+Through+Data" />
+
+<br>
+
+<!-- Process animation (clean workflow style) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=39FF14&center=true&vCenter=true&width=900&lines=Loading+Data...;Cleaning+Data...;Analyzing+Patterns...;Building+Models...;Delivering+Insights+%F0%9F%9A%80" />
+
+<br>
+
+<!-- Tech highlight badges -->
+<img src="https://img.shields.io/badge/Python-0A0F2C?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/SQL-0A0F2C?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Power%20BI-0A0F2C?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/Data%20Science-0A0F2C?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+
+</div>
+
+
+
 #🚀 Passionate about transforming data into insights and building intelligent solutions**
 
 ## 🎯 Professional Summary
