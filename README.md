@@ -75,20 +75,6 @@ Feel free to check them out and contribute if you're interested! -->
 </p>
 
 
-## 🤝 CONNECT WITH ME | LET'S COLLABORATE
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Let's+Build+Something+Impactful+Together;Turning+Ideas+Into+Real-World+Solutions;Open+for+Collaboration+%26+Opportunities;Data+Driven+Mindset+%7C+Real+World+Impact" />
-
-<br>
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
-
-</div>
-
----
-
 ### 🚀 About Me
 
 - 🔹 Transforming **raw data into actionable insights**
@@ -98,23 +84,9 @@ Feel free to check them out and contribute if you're interested! -->
 
 ---
 
-### 💡 What I Believe
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=00C4CC&center=true&vCenter=true&width=900&lines=Data+is+Power;Insights+Drive+Decisions;Decisions+Create+Impact" />
 
----
 
-### 📬 Let’s Connect
-
-<div align="center">
-
-📧 **Let’s connect and create something impactful together!**
-
-<br>
-
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
-
-</div>
 
 
 ## 🚀 DATA ANALYTICS JOURNEY
