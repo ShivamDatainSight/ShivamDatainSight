@@ -51,6 +51,19 @@
 6======================
 <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=18&pause=1500&color=E5E7EB&background=111111&center=true&width=900&lines=Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+BI;AI+%7C+Automation+%7C+Insights;Charts+Speak+Louder+Than+Words;Always+Learning" />
 
+7======
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=18&pause=1000&color=9B5DE5&background=0B0014&center=true&width=900&lines=Shivam+Chaudhary+%7C+Data+Analyst;Data+%7C+AI+%7C+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI;Creating+Insights+From+Numbers" />
+
+8=============
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&pause=900&color=FF9F1C&background=111111&center=true&width=900&lines=Data+Analyst+%7C+Problem+Solver;Advanced+Excel+%7C+SQL+%7C+Python;Dashboards+%7C+Charts+%7C+Statistics;Turning+Data+Into+Decisions" />
+
+9================
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=800&color=39FF14&background=050505&center=true&width=900&lines=Loading+Data...;Cleaning+Data...;Finding+Patterns...;Building+Models...;Delivering+Insights" />
+
+=====================
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=18&pause=1200&color=FFD166&background=121212&center=true&width=900&lines=Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Excel+%7C+AI+%7C+Automation;Statistics+%7C+Charts+%7C+Insights" />
+==========
+
 #🚀 Passionate about transforming data into insights and building intelligent solutions**
 
 ## 🎯 Professional Summary
