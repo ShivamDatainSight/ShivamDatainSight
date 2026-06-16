@@ -379,19 +379,18 @@ Probability • Hypothesis Testing • Regression Analysis • Descriptive Stati
 Procurement • Inventory Management • Vendor Management • Purchase Orders • Material Master • Stock Management • Supplier Coordination • Reporting
 
 ---
-
 ## 💡 MOTTO
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1200&color=FFD700&center=true&vCenter=true&width=1000&lines=📊+Turning+Raw+Data+into+Actionable+Insights;🚀+Building+Solutions+That+Create+Real+Impact;💡+Data+Driven+Decisions+for+Smarter+Growth;🤝+Great+Things+Happen+When+We+Collaborate;📈+Transforming+Complexity+into+Clarity;⚡+Learning%2C+Building%2C+Improving+Every+Day;🎯+Where+Analytics+Meets+Innovation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1500&color=00C4CC&center=true&vCenter=true&width=900&lines=Turning+Raw+Data+into+Actionable+Insights;Building+Solutions+That+Create+Real+Impact;Data-Driven+Decisions+for+Smarter+Growth;Great+Things+Happen+When+We+Collaborate;Transforming+Complexity+into+Clarity;Learning%2C+Building%2C+Improving+Every+Day;Where+Analytics+Meets+Innovation" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Data%20Analytics-Expert-00C4CC?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Business%20Intelligence-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-AI%20Driven-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation-Smart%20Work-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-0A192F?style=for-the-badge&logo=databricks&logoColor=00C4CC"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-0A192F?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0A192F?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/Automation-0A192F?style=for-the-badge&logo=zapier&logoColor=7B68EE"/>
 
 <br><br>
 
@@ -409,16 +408,13 @@ Procurement • Inventory Management • Vendor Management • Purchase Orders �
 
 ### 🌟 My Mission
 
-*"Transforming data into meaningful insights,  
-insights into decisions, and decisions into impact."*
+*"Transforming data into meaningful insights, insights into decisions, and decisions into impact."*
 
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:FFD700&height=120&section=header&text=Data%20%7C%20Insights%20%7C%20Impact&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:00C4CC&height=90&section=header&text=DATA%20%7C%20INSIGHTS%20%7C%20IMPACT&fontSize=28&fontColor=ffffff"/>
 </p>
-```
-
 
 
 
