@@ -543,4 +543,68 @@ Procurement • Inventory Management • Vendor Management • Purchase Orders �
 
 
 
+## 💡 MOTTO
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=00E5FF&center=true&vCenter=true&width=1000&lines=Turning+Raw+Data+into+Powerful+Insights;Building+Data-Driven+Solutions;Transforming+Complex+Data+into+Clarity;From+Data+to+Decisions+to+Impact;Automating+Workflows+with+AI+%26+Analytics;Learning+%7C+Building+%7C+Innovating" />
+
+<br>
+
+<!-- Data Workflow Images -->
+
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300"/>
+
+<br><br>
+
+<!-- Caption under images -->
+**RAW DATA → CLEANING → PROCESSED DATA**
+
+<br><br>
+
+<!-- Main Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2A,100:00E5FF&height=160&section=header&text=DATA%20%7C%20CLEANING%20%7C%20INSIGHTS&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+
+<br>
+
+<!-- Tech Stack -->
+<img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,powerbi,git,github" />
+
+<br><br>
+
+---
+
+### 📊 DATA PIPELINE
+
+```text
+┌──────────────┐     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
+│  RAW DATA    │ →   │  CLEAN DATA  │ →   │  PROCESSING  │ →   │ VISUALIZATION│
+│ (Messy Input)│     │ (Filtered)   │     │ (Modeling)   │     │ (Insights)   │
+└──────────────┘     └──────────────┘     └──────────────┘     └──────────────┘
+                                                                      ↓
+                                                               ┌──────────────┐
+                                                               │   BUSINESS   │
+                                                               │   IMPACT     │
+                                                               └──────────────┘
+```
+
+---
+
+### 🌊 LIVE DATA FLOW
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+---
+
+### 🌟 MY MISSION
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=00E5FF&center=true&vCenter=true&width=900&lines=From+Messy+Data+to+Clean+Insights;Turning+Information+into+Intelligence;Driving+Decisions+with+Data" />
+
+</div>
+
+
+
+
 
