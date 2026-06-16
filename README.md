@@ -2,6 +2,8 @@
 ⚡ Hi there! I’m Shivam Chaudhary — Data Analyst & Data Science Enthusiast
 </h2>
 <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=18&pause=1000&color=4FC3F7&center=true&width=850&lines=Data+Analytics+%7C+Business+Intelligence+%7C+AI;Python+%7C+SQL+%7C+Power+BI+%7C+Cloud;Turning+Data+Into+Real+Business+Impact" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=800&color=39FF14&background=050505&center=true&width=900&lines=Loading+Data...;Cleaning+Data...;Finding+Patterns...;Building+Models...;Delivering+Insights" />
+
 
 <h2 align="center" style="font-family: Calibri, Arial, sans-serif; color:#4FC3F7;">
 ⚡ Hi there! I’m Shivam Chaudhary — Data Analyst & Data Science Enthusiast
