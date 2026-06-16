@@ -4,68 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=18&pause=1000&color=4FC3F7&center=true&width=850&lines=Data+Analytics+%7C+Business+Intelligence+%7C+AI;Python+%7C+SQL+%7C+Power+BI+%7C+Cloud;Turning+Data+Into+Real+Business+Impact" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=800&color=39FF14&background=050505&center=true&width=900&lines=Loading+Data...;Cleaning+Data...;Finding+Patterns...;Building+Models...;Delivering+Insights" />
 
-
-<h2 align="center" style="font-family: Calibri, Arial, sans-serif; color:#4FC3F7;">
-⚡ Hi there! I’m Shivam Chaudhary — Data Analyst & Data Science Enthusiast
-</h2>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=18&pause=1200&color=4FC3F7&background=0D1117&center=true&width=900&lines=Data+Analytics+%7C+Business+Intelligence+%7C+AI;Python+%7C+SQL+%7C+Power+BI+%7C+Advanced+Excel;Prompt+Engineering+%7C+ChatGPT+%7C+AI+Automation;Statistics+%7C+Charts+%7C+Dashboards+%7C+Insights;Turning+Data+Into+Real+Business+Impact" />
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=18&pause=1000&color=4FC3F7&background=0D1117&center=true&width=900&lines=Data+Analyst+%7C+Data+Science+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Advanced+Excel;Prompt+Engineering+%7C+ChatGPT+%7C+AI;Turning+Data+Into+Insights" />
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=18&pause=1000&color=4FC3F7&background=0D1117&center=true&width=900&lines=Data+Analyst+%7C+Data+Science+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Advanced+Excel;Prompt+Engineering+%7C+ChatGPT+%7C+AI;Turning+Data+Into+Insights" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=900&color=00FFFF&background=000000&center=true&width=900&lines=Python+%7C+SQL+%7C+Power+BI;AI+Tools+%7C+Prompt+Engineering;Data+Driven+Mindset" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=17&pause=1200&color=E5E7EB&background=0D1117&center=true&width=900&lines=Data+Analyst;Business+Intelligence;AI+%26+Automation;Statistics+%7C+Charts+%7C+Insights" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=18&pause=1000&color=FF6B6B&background=0D1117&center=true&width=900&lines=Data+Analytics+%7C+AI;Advanced+Excel+%7C+SQL;Power+BI+%7C+ChatGPT" />
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=18&pause=1000&color=00BCD4&background=0D1117&center=true&width=950&lines=Data+Analyst+%7C+Data+Science+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Prompt+Engineering+%7C+ChatGPT+%7C+AI;Statistics+%7C+Charts+%7C+Dashboards;Turning+Data+Into+Real+Business+Impact" />
-1==================
-<h1 align="center" style="font-family: Calibri, Arial, sans-serif;">
-⚡ Shivam Chaudhary
-</h1>
-
-<h3 align="center">
-📊 Data Analyst | Data Science Enthusiast | AI Explorer
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=18&pause=1000&color=00BCD4&background=0D1117&center=true&width=900&lines=Transforming+Data+Into+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Advanced+Excel;Statistics+%7C+Charts+%7C+Dashboards;Prompt+Engineering+%7C+ChatGPT+%7C+AI+Automation;Building+Data+Driven+Solutions" />
-</p>
-
-2=====================
-<img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=18&pause=1000&color=00BCD4&background=0D1117&center=true&width=900&lines=Shivam+Chaudhary+%7C+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Statistics+%7C+Charts+%7C+Dashboards;Prompt+Engineering+%7C+ChatGPT+%7C+AI;Turning+Data+Into+Insights" />
-
-3================
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=A78BFA&background=050505&center=true&width=900&lines=AI+%26+Data+Explorer;Building+Smart+Solutions;Machine+Learning+%7C+Automation;Prompt+Engineering+%7C+LLMs;Future+Driven+By+Data" />
-
-4========
-<img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=18&pause=1200&color=00E676&background=0B0F14&center=true&width=900&lines=Data+Analyst+Mindset;Finding+Patterns+In+Data;Power+BI+%7C+SQL+%7C+Excel;Reports+%7C+KPIs+%7C+Insights;Data+Driven+Decisions" />
-
-5==============
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=900&color=FF6B6B&background=000000&center=true&width=900&lines=%3E+Analyzing_Data...;%3E+Building_Dashboards...;%3E+Training_AI...;%3E+Solving_Problems...;Welcome_To_My_Profile" />
-
-6======================
-<img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=18&pause=1500&color=E5E7EB&background=111111&center=true&width=900&lines=Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+BI;AI+%7C+Automation+%7C+Insights;Charts+Speak+Louder+Than+Words;Always+Learning" />
-
-7======
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=18&pause=1000&color=9B5DE5&background=0B0014&center=true&width=900&lines=Shivam+Chaudhary+%7C+Data+Analyst;Data+%7C+AI+%7C+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI;Creating+Insights+From+Numbers" />
-
-8=============
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&pause=900&color=FF9F1C&background=111111&center=true&width=900&lines=Data+Analyst+%7C+Problem+Solver;Advanced+Excel+%7C+SQL+%7C+Python;Dashboards+%7C+Charts+%7C+Statistics;Turning+Data+Into+Decisions" />
-
-9================
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=800&color=39FF14&background=050505&center=true&width=900&lines=Loading+Data...;Cleaning+Data...;Finding+Patterns...;Building+Models...;Delivering+Insights" />
-
-=====================
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=18&pause=1200&color=FFD166&background=121212&center=true&width=900&lines=Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Excel+%7C+AI+%7C+Automation;Statistics+%7C+Charts+%7C+Insights" />
-==========
-
 #🚀 Passionate about transforming data into insights and building intelligent solutions**
 
 ## 🎯 Professional Summary
