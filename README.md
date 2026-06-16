@@ -381,6 +381,41 @@ Procurement • Inventory Management • Vendor Management • Purchase Orders �
 ---
 
 
+````markdown
+## 💡 MOTTO
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1200&color=FFD700&center=true&vCenter=true&width=1000&lines=📊+Turning+Raw+Data+into+Actionable+Insights;🚀+Building+Solutions+That+Create+Real+Impact;💡+Data+Driven+Decisions+for+Smarter+Growth;🤝+Great+Things+Happen+When+We+Collaborate;📈+Transforming+Complexity+into+Clarity;⚡+Learning%2C+Building%2C+Improving+Every+Day;🎯+Where+Analytics+Meets+Innovation" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-Expert-00C4CC?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-AI%20Driven-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-Smart%20Work-7B68EE?style=for-the-badge"/>
+
+<br><br>
+
+```text
+┌──────────────────────────────────────────────┐
+│  📊 Analyze Data                             │
+│          ↓                                   │
+│  🔍 Discover Insights                        │
+│          ↓                                   │
+│  🚀 Build Solutions                          │
+│          ↓                                   │
+│  📈 Create Business Impact                   │
+└──────────────────────────────────────────────┘
+````
+
+### 🌟 My Mission
+
+*"Transforming data into meaningful insights,
+insights into decisions, and decisions into impact."*
+
+</div>
+```
 
 
 
