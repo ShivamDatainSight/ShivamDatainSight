@@ -482,6 +482,63 @@ Procurement • Inventory Management • Vendor Management • Purchase Orders �
 </div>
 
 
+## 💡 MOTTO
+
+<div align="center">
+
+<!-- Stable typing animation (better font + stable colors) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=00E5FF&center=true&vCenter=true&width=1000&lines=Turning+Raw+Data+into+Powerful+Insights;Building+Data-Driven+Solutions;Transforming+Complex+Data+into+Clarity;From+Data+to+Decisions+to+Impact;Automating+Workflows+with+AI+%26+Analytics;Learning+%7C+Building+%7C+Innovating" />
+
+<br>
+
+<!-- Data / Analytics Hero Image (stable CDN) -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
+
+<br><br>
+
+<!-- Dark Data Theme Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2A,100:00E5FF&height=160&section=header&text=DATA%20%7C%20ANALYTICS%20%7C%20INSIGHTS&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+
+<br>
+
+<!-- Tech Stack -->
+<img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,powerbi,git,github" />
+
+<br><br>
+
+---
+
+### 📊 DATA PIPELINE
+
+<!-- Better pipeline visualization image -->
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="650"/>
+
+<br>
+
+```text
+┌──────────────┐     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
+│   RAW DATA   │ →   │  CLEANING    │ →   │  ANALYSIS    │ →   │ VISUALIZATION│
+└──────────────┘     └──────────────┘     └──────────────┘     └──────────────┘
+                                                                      ↓
+                                                               ┌──────────────┐
+                                                               │   BUSINESS   │
+                                                               │   IMPACT     │
+                                                               └──────────────┘
+```
+
+---
+
+### 🌊 LIVE DATA FLOW
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+---
+
+### 🌟 MY MISSION
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=00E5FF&center=true&vCenter=true&width=900&lines=Data+Driven+Decision+Making;Insights+That+Create+Value;Analytics+That+Drive+Growth" />
+
+</div>
 
 
 
