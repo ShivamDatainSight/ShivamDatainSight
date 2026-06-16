@@ -305,8 +305,4 @@ Procurement • Inventory Management • Vendor Management • Purchase Orders �
 
 
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F5F7FA,100:DDE6F5&height=220&section=header&text=Shivam%20Chaudhary&fontSize=40&fontColor=1F2A44&animation=fadeIn" />
-
-</div>
