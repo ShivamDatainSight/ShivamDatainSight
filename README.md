@@ -23,6 +23,56 @@ Additionally, I handled **engineering drawing material reconciliation** and cont
 
 ![Skill Growth Line Chart](https://quickchart.io/chart?width=700&height=350&c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22SQL%22%2C%22Python%22%2C%22Excel%22%2C%22Power%20BI%22%2C%22Machine%20Learning%22%2C%22AWS%22%2C%22Project%20Management%22%2C%22Prompt%20Engineering%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Core%20Skills%22%2C%22data%22%3A%5B90%2C92%2C88%2C85%2C80%2C75%2C82%2C78%5D%2C%22borderColor%22%3A%22%23FF4C4C%22%2C%22backgroundColor%22%3A%22rgba(255%2C76%2C76%2C0.08)%22%2C%22borderWidth%22%3A3%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Advanced%20Growth%20Trend%22%2C%22data%22%3A%5B70%2C75%2C78%2C80%2C82%2C85%2C88%2C90%5D%2C%22borderColor%22%3A%22%23222222%22%2C%22backgroundColor%22%3A%22rgba(0%2C0%2C0%2C0.05)%22%2C%22borderWidth%22%3A2%2C%22borderDash%22%3A%5B5%2C5%5D%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22color%22%3A%22white%22%2C%22font%22%3A%7B%22size%22%3A12%7D%7D%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22white%22%7D%7D%2C%22y%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22white%22%7D%7D%7D%7D%7D)
 
+# 📑 EDUCATION JOURNEY
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Learning+Never+Stops;Building+Strong+Tech+Foundation;From+Diploma+to+Data+Science+Journey;Engineering+Ideas+Into+Reality" />
+
+<br>
+
+</div>
+
+---
+
+## 🎓 Academic Background
+
+### 🚀 B.Tech in Computer Science & Engineering (AIML)
+**Guru Gobind Singh Indraprastha University (IPU)**  
+📅 *2021 - 2024*  
+📍 Delhi, India  
+
+✨ Focus Areas:
+- Artificial Intelligence & Machine Learning  
+- Data Structures & Algorithms  
+- Data Analytics & Visualization  
+- Python, SQL & Data Science Fundamentals  
+
+---
+
+### 🛠 Diploma in Engineering
+**G.B. Pant Institute of Technology**  
+📅 *2016 - 2019*  
+📍 Delhi, India  
+
+✨ Foundation Built In:
+- Engineering Basics  
+- Programming Fundamentals  
+- Technical Problem Solving  
+- Logical & Analytical Thinking  
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350"/>
+
+<br>
+
+### 💡 *"Education is not just degrees, it's continuous growth."*
+
+</div>
+
 
 <!---
 ## 💼 Projects
