@@ -175,20 +175,6 @@ Feel free to check them out and contribute if you're interested! -->
 
 ---
 
-### 💫 About Me
-
-🔹 Data Analytics & Business Intelligence Enthusiast
-
-🔹 Passionate about uncovering patterns hidden in data
-
-🔹 Skilled in Python, SQL, Excel, Power BI & Machine Learning
-
-🔹 Exploring AWS Cloud & Advanced Analytics
-
-🔹 Open to Freelance Projects, Networking & Collaborations
-
-
-
 
   # 📈 Contribution Graph
 
