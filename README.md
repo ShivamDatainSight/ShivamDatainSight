@@ -75,79 +75,47 @@ Feel free to check them out and contribute if you're interested! -->
 </p>
 
 
- ## 📧 CONNECT WITH ME | LET'S COLLABORATE 🚀
+## 🤝 CONNECT WITH ME | LET'S COLLABORATE
 
-> 📊 Open to opportunities in Data Analytics, Business Intelligence, and Data Science.
->
-> 💡 Passionate about transforming raw data into actionable insights.
->
-> 📈 Continuously learning Python, SQL, Power BI, Machine Learning, and AWS Cloud.
->
-> 🤝 Open to collaborations, networking, and exciting data-driven projects.
+<div align="center">
 
-## 📧 CONNECT WITH ME | LET'S COLLABORATE 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Let's+Build+Something+Impactful+Together;Turning+Ideas+Into+Real-World+Solutions;Open+for+Collaboration+%26+Opportunities;Data+Driven+Mindset+%7C+Real+World+Impact" />
 
-📊 Data Analytics      │ 📈 Business Intelligence  
-🤖 Data Science       │ ☁️ AWS Cloud  
+<br>
 
-💡 Turning data into insights  
-🚀 Building real-world projects  
-🤝 Open for collaboration & opportunities
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
 
-## 📧 CONNECT WITH ME | LET'S COLLABORATE 🚀
+</div>
 
-```bash
-$ role
-Data Analyst | Data Science Enthusiast
+---
 
-$ interests
-Python | SQL | Power BI | Machine Learning | AWS
+### 🚀 About Me
 
-$ status
-Open for Collaboration & Opportunities
+- 🔹 Transforming **raw data into actionable insights**
+- 🔹 Building real-world projects using **Python, SQL, Power BI & Machine Learning**
+- 🔹 Passionate about **Analytics, Automation & AI-driven decision making**
+- 🔹 Open to **collaborations, networking, internships & full-time opportunities**
 
-$ mission
-Transforming Data into Actionable Insights
-```
+---
 
-## 📧 CONNECT WITH ME | LET'S COLLABORATE 🚀
+### 💡 What I Believe
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=00C4CC&center=true&vCenter=true&width=900&lines=Data+is+Power;Insights+Drive+Decisions;Decisions+Create+Impact" />
 
-📊 Data Analytics & Data Science
+---
 
-💡 Transforming raw data into meaningful insights
+### 📬 Let’s Connect
 
-📈 Skilled in Python, SQL, Excel, Power BI & ML
+<div align="center">
 
-🌱 Continuously learning AWS Cloud & Advanced Analytics
+📧 **Let’s connect and create something impactful together!**
 
-🤝 Open to Networking, Collaboration & Opportunities
+<br>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
 
+</div>
 
-## 🚀 DATA ANALYTICS | DATA SCIENCE | BUSINESS INTELLIGENCE
-
-🔹 Transforming raw data into actionable insights
-
-🔹 Building real-world projects using Python, SQL, Power BI, and Machine Learning
-
-🔹 Passionate about analytics, automation, and data-driven decision making
-
-🔹 Open to collaborations, networking, internships, and full-time opportunities
-
-📧 Let's connect and create something impactful together!
-
-## 📧 CONNECT WITH ME | LET'S COLLABORATE 🚀
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=900&lines=Data+Analytics+%7C+Data+Science+%7C+Business+Intelligence;Turning+Raw+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Open+for+Collaboration+and+Opportunities+🚀" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&width=1000&lines=Welcome+to+My+GitHub+Profile!;Data+Analyst+%7C+Data+Science+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+AWS;Always+Learning+%26+Building+🚀" />
-</p>
 
 ## 🚀 DATA ANALYTICS JOURNEY
 
@@ -219,69 +187,14 @@ Transforming Data into Actionable Insights
 
 🔹 Open to Freelance Projects, Networking & Collaborations
 
----
-
-### ⚡ Motto
-
-> "Data is the new oil, but insights are the real fuel." 🚀
-
-<h1 align="center">🚀 Data Analyst | Data Science Enthusiast</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Transforming+Raw+Data+into+Insights+📊;Data+Analytics+%7C+Data+Science+%7C+ML+🤖;Python+%7C+SQL+%7C+Power+BI+%7C+Excel+📈;Learning+AWS+Cloud+☁️+and+Advanced+Analytics;Open+for+Collaboration+and+Opportunities+🤝" alt="Typing SVG" />
-</p>
-
----
-
-## 🌟 Connect With Me | Let's Collaborate
-
-✨ Passionate about turning complex data into actionable insights
-
-📊 Data Analytics & Business Intelligence
-
-🤖 Machine Learning & Predictive Analytics
-
-🐍 Python | SQL | Excel | Power BI
-
-☁️ Currently Learning AWS Cloud & Advanced Analytics
-
-🤝 Open to Networking, Collaboration & Exciting Opportunities
-
----
-
-<div align="center">
 
 
-<div align="center">
-
-# 🚀 Shivam | Data Analyst | Data Science Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=Data+Analytics+%7C+Data+Science+%7C+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Turning+Raw+Data+into+Actionable+Insights;Open+for+Collaboration+🚀" />
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-- 📊 Data Analyst & Data Science Enthusiast  
-- 🐍 Skilled in Python, SQL, Excel, Power BI  
-- 🤖 Learning Machine Learning & AI  
-- ☁️ Exploring AWS Cloud & Advanced Analytics  
-- 🤝 Open for Collaboration & Projects
 
   # 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamDatainSight&theme=react-dark" />
 </p>
-
-
-## 💡 MOTTO 
-
-<div align="center">
-
-<img src="https://readme-typing-svg.rokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFDD00&center=true&vCenter=true&width=900&lines=From+Raw+Data+to+Real+Impact+💡;Great+Things+Happen+When+We+Collaborate+🚀;Data+is+Power+When+Used+Right+📊" />
 
 
 # 🚀 Skills & Expertise
