@@ -28,7 +28,8 @@
 
 #🚀 Passionate about transforming data into insights and building intelligent solutions**
 
-<h1 align="center">🚀 Passionate about Transforming Data into Insights & Building Intelligent Solutions</h1>
+<h1 align="center">🚀 Passionate about Transforming Data into Insights, Building Intelligent Solutions, Driving Innovation, and Empowering Decisions Through Data & AI</h1>
+
 
 ## 🎯 Professional Summary
 
