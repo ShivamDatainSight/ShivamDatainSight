@@ -247,19 +247,14 @@ Probability • Hypothesis Testing • Regression Analysis • Descriptive Stati
 **Skills:**  
 Procurement • Inventory Management • Vendor Management • Purchase Orders • Material Master • Stock Management • Supplier Coordination • Reporting
 
-
 ## 🏆 Kaggle Achievements
-
-🔗 GitHub Profile: https://github.com/ShivamDatainSight/Kaggle_Badges
 
 ---
 
-### 👨‍💻 Community Milestones
+### 👨‍💻 Kaggle Community Member
 
 <p align="center">
-  <a href="assets/Kaggle Community Member.png">
-    <img src="assets/Kaggle Community Member.png" width="700"/>
-  </a>
+  <img src="assets/kaggle_community_member.png" width="700"/>
 </p>
 
 **Kaggle Community Member**  
@@ -268,10 +263,22 @@ Procurement • Inventory Management • Vendor Management • Purchase Orders �
 
 ---
 
+### 🐍 Python Coder
+
 <p align="center">
-  <a href="assets/1 Year on Kaggle.png">
-    <img src="assets/1 Year on Kaggle.png" width="700"/>
-  </a>
+  <img src="assets/python_coder.png" width="700"/>
+</p>
+
+**Python Coder**  
+📅 Issued: September 13, 2024  
+🎯 Demonstrated Python programming skills through Kaggle courses.
+
+---
+
+### ⏳ 1 Year on Kaggle
+
+<p align="center">
+  <img src="assets/1_year_on_kaggle.png" width="700"/>
 </p>
 
 **1 Year on Kaggle**  
@@ -280,29 +287,15 @@ Procurement • Inventory Management • Vendor Management • Purchase Orders �
 
 ---
 
+### ⏳ 2 Years on Kaggle
+
 <p align="center">
-  <a href="assets/2 Years on Kaggle.png">
-    <img src="assets/2 Years on Kaggle.png" width="700"/>
-  </a>
+  <img src="assets/2_years_on_kaggle.png" width="700"/>
 </p>
 
 **2 Years on Kaggle**  
 📅 Issued: June 19, 2026  
 🎯 Completed 2 years of continuous learning and engagement.
-
----
-
-### 🐍 Skill Badge
-
-<p align="center">
-  <a href="assets/Python Coder.png">
-    <img src="assets/Python Coder.png" width="700"/>
-  </a>
-</p>
-
-**Python Coder**  
-📅 Issued: September 13, 2024  
-🎯 Demonstrated Python programming skills through Kaggle courses.
 
 ## 💡 MOTTO
 
