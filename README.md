@@ -269,9 +269,6 @@ This repository highlights my learning journey, consistency, and growth in **Dat
 
 ### 👨‍💻 Kaggle Community Member
 
-📜 Certificate Link:  
-👉 [Open Certificate](assets/kaggle_community_member.png)
-
 <p align="center">
   <a href="assets/kaggle_community_member.png">
     <img src="assets/kaggle_community_member.png" width="700"/>
@@ -280,14 +277,11 @@ This repository highlights my learning journey, consistency, and growth in **Dat
 
 **Kaggle Community Member**  
 📅 Issued: September 7, 2023  
-🎯 Joined Kaggle community
+🎯 Joined Kaggle and became part of the global data science community.
 
 ---
 
 ### 🐍 Python Coder
-
-📜 Certificate Link:  
-👉 [Open Certificate](assets/python_coder.png)
 
 <p align="center">
   <a href="assets/python_coder.png">
@@ -297,14 +291,11 @@ This repository highlights my learning journey, consistency, and growth in **Dat
 
 **Python Coder**  
 📅 Issued: September 13, 2024  
-🎯 Python programming skills completed
+🎯 Completed Python programming fundamentals through Kaggle.
 
 ---
 
 ### ⏳ 1 Year on Kaggle
-
-📜 Certificate Link:  
-👉 [Open Certificate](assets/1_year_on_kaggle.png)
 
 <p align="center">
   <a href="assets/1_year_on_kaggle.png">
@@ -313,15 +304,12 @@ This repository highlights my learning journey, consistency, and growth in **Dat
 </p>
 
 **1 Year on Kaggle**  
-📅 Milestone achievement  
-🎯 1 year of consistency
+📅 Milestone Achievement  
+🎯 Consistent learning for 1 year
 
 ---
 
 ### ⏳ 2 Years on Kaggle
-
-📜 Certificate Link:  
-👉 [Open Certificate](assets/2_years_on_kaggle.png)
 
 <p align="center">
   <a href="assets/2_years_on_kaggle.png">
@@ -330,8 +318,9 @@ This repository highlights my learning journey, consistency, and growth in **Dat
 </p>
 
 **2 Years on Kaggle**  
-📅 Milestone achievement  
-🎯 2 years of learning journey
+📅 Milestone Achievement  
+🎯 Continuous learning for 2 years
+
 ## 💡 MOTTO
 
 <div align="center">
