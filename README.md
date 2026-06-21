@@ -247,6 +247,63 @@ Probability • Hypothesis Testing • Regression Analysis • Descriptive Stati
 **Skills:**  
 Procurement • Inventory Management • Vendor Management • Purchase Orders • Material Master • Stock Management • Supplier Coordination • Reporting
 
+
+## 🏆 Kaggle Achievements
+
+🔗 GitHub Profile: https://github.com/ShivamDatainSight/Kaggle_Badges
+
+---
+
+### 👨‍💻 Community Milestones
+
+<p align="center">
+  <a href="assets/Kaggle Community Member.png">
+    <img src="assets/Kaggle Community Member.png" width="700"/>
+  </a>
+</p>
+
+**Kaggle Community Member**  
+📅 Issued: September 7, 2023  
+🎯 Joined Kaggle and became part of the global data science community.
+
+---
+
+<p align="center">
+  <a href="assets/1 Year on Kaggle.png">
+    <img src="assets/1 Year on Kaggle.png" width="700"/>
+  </a>
+</p>
+
+**1 Year on Kaggle**  
+📅 Issued: June 19, 2026  
+🎯 Completed 1 year of active participation on Kaggle.
+
+---
+
+<p align="center">
+  <a href="assets/2 Years on Kaggle.png">
+    <img src="assets/2 Years on Kaggle.png" width="700"/>
+  </a>
+</p>
+
+**2 Years on Kaggle**  
+📅 Issued: June 19, 2026  
+🎯 Completed 2 years of continuous learning and engagement.
+
+---
+
+### 🐍 Skill Badge
+
+<p align="center">
+  <a href="assets/Python Coder.png">
+    <img src="assets/Python Coder.png" width="700"/>
+  </a>
+</p>
+
+**Python Coder**  
+📅 Issued: September 13, 2024  
+🎯 Demonstrated Python programming skills through Kaggle courses.
+
 ## 💡 MOTTO
 
 <div align="center">
