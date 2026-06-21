@@ -263,70 +263,75 @@ This repository highlights my learning journey, consistency, and growth in **Dat
 
 ---
 
-## 👨‍💻 Community Milestones
+## 🏆 Kaggle Achievements
+
+---
+
+### 👨‍💻 Kaggle Community Member
+
+📜 Certificate Link:  
+👉 [Open Certificate](assets/kaggle_community_member.png)
 
 <p align="center">
-  <img src="assets/kaggle_community_member.png" width="600"/>
+  <a href="assets/kaggle_community_member.png">
+    <img src="assets/kaggle_community_member.png" width="700"/>
+  </a>
 </p>
 
-✨ **Kaggle Community Member**  
-📅 September 7, 2023  
-🌍 Started my journey in the global data science community
+**Kaggle Community Member**  
+📅 Issued: September 7, 2023  
+🎯 Joined Kaggle community
 
 ---
+
+### 🐍 Python Coder
+
+📜 Certificate Link:  
+👉 [Open Certificate](assets/python_coder.png)
 
 <p align="center">
-  <img src="assets/1_year_on_kaggle.png" width="600"/>
+  <a href="assets/python_coder.png">
+    <img src="assets/python_coder.png" width="700"/>
+  </a>
 </p>
 
-⏳ **1 Year on Kaggle**  
-📅 June 19, 2026  
-🔥 Consistency and continuous learning for 1 full year
+**Python Coder**  
+📅 Issued: September 13, 2024  
+🎯 Python programming skills completed
 
 ---
+
+### ⏳ 1 Year on Kaggle
+
+📜 Certificate Link:  
+👉 [Open Certificate](assets/1_year_on_kaggle.png)
 
 <p align="center">
-  <img src="assets/2_years_on_kaggle.png" width="600"/>
+  <a href="assets/1_year_on_kaggle.png">
+    <img src="assets/1_year_on_kaggle.png" width="700"/>
+  </a>
 </p>
 
-🚀 **2 Years on Kaggle**  
-📅 June 19, 2026  
-💡 Strong dedication towards learning and growth
+**1 Year on Kaggle**  
+📅 Milestone achievement  
+🎯 1 year of consistency
 
 ---
 
-## 🐍 Skill Badge
+### ⏳ 2 Years on Kaggle
+
+📜 Certificate Link:  
+👉 [Open Certificate](assets/2_years_on_kaggle.png)
 
 <p align="center">
-  <img src="assets/python_coder.png" width="600"/>
+  <a href="assets/2_years_on_kaggle.png">
+    <img src="assets/2_years_on_kaggle.png" width="700"/>
+  </a>
 </p>
 
-⚡ **Python Coder Badge**  
-📅 September 13, 2024  
-💻 Built strong fundamentals in Python programming
-
----
-
-## 🌟 Highlights
-
-- 📌 Active Kaggle learner  
-- 📌 Python programming skills  
-- 📌 Consistent growth mindset  
-- 📌 Data Science enthusiast  
-
----
-
-## 💼 Profile Link
-
-🔗 GitHub Repo:  
-👉 https://github.com/ShivamDatainSight/Kaggle_Badges
-
----
-
-<p align="center">
-  ⭐ *“Learning never stops — consistency builds mastery”* ⭐
-</p>
-
+**2 Years on Kaggle**  
+📅 Milestone achievement  
+🎯 2 years of learning journey
 ## 💡 MOTTO
 
 <div align="center">
