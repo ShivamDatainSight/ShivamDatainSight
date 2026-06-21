@@ -247,55 +247,85 @@ Probability • Hypothesis Testing • Regression Analysis • Descriptive Stati
 **Skills:**  
 Procurement • Inventory Management • Vendor Management • Purchase Orders • Material Master • Stock Management • Supplier Coordination • Reporting
 
-## 🏆 Kaggle Achievements
+<h1 align="center">🏆 Kaggle Achievement Portfolio</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kaggle-Achievements-blue?style=for-the-badge&logo=kaggle"/>
+  <img src="https://img.shields.io/badge/Data%20Science-Learner-green?style=for-the-badge"/>
+</p>
 
 ---
 
-### 👨‍💻 Kaggle Community Member
+## 🚀 About This Journey
 
-<p align="center">
-  <img src="assets/kaggle_community_member.png" width="700"/>
-</p>
-
-**Kaggle Community Member**  
-📅 Issued: September 7, 2023  
-🎯 Joined Kaggle and became part of the global data science community.
+Welcome to my Kaggle achievement showcase!  
+This repository highlights my learning journey, consistency, and growth in **Data Science & Python programming**.
 
 ---
 
-### 🐍 Python Coder
+## 👨‍💻 Community Milestones
 
 <p align="center">
-  <img src="assets/python_coder.png" width="700"/>
+  <img src="assets/kaggle_community_member.png" width="600"/>
 </p>
 
-**Python Coder**  
-📅 Issued: September 13, 2024  
-🎯 Demonstrated Python programming skills through Kaggle courses.
+✨ **Kaggle Community Member**  
+📅 September 7, 2023  
+🌍 Started my journey in the global data science community
 
 ---
 
-### ⏳ 1 Year on Kaggle
-
 <p align="center">
-  <img src="assets/1_year_on_kaggle.png" width="700"/>
+  <img src="assets/1_year_on_kaggle.png" width="600"/>
 </p>
 
-**1 Year on Kaggle**  
-📅 Issued: June 19, 2026  
-🎯 Completed 1 year of active participation on Kaggle.
+⏳ **1 Year on Kaggle**  
+📅 June 19, 2026  
+🔥 Consistency and continuous learning for 1 full year
 
 ---
 
-### ⏳ 2 Years on Kaggle
-
 <p align="center">
-  <img src="assets/2_years_on_kaggle.png" width="700"/>
+  <img src="assets/2_years_on_kaggle.png" width="600"/>
 </p>
 
-**2 Years on Kaggle**  
-📅 Issued: June 19, 2026  
-🎯 Completed 2 years of continuous learning and engagement.
+🚀 **2 Years on Kaggle**  
+📅 June 19, 2026  
+💡 Strong dedication towards learning and growth
+
+---
+
+## 🐍 Skill Badge
+
+<p align="center">
+  <img src="assets/python_coder.png" width="600"/>
+</p>
+
+⚡ **Python Coder Badge**  
+📅 September 13, 2024  
+💻 Built strong fundamentals in Python programming
+
+---
+
+## 🌟 Highlights
+
+- 📌 Active Kaggle learner  
+- 📌 Python programming skills  
+- 📌 Consistent growth mindset  
+- 📌 Data Science enthusiast  
+
+---
+
+## 💼 Profile Link
+
+🔗 GitHub Repo:  
+👉 https://github.com/ShivamDatainSight/Kaggle_Badges
+
+---
+
+<p align="center">
+  ⭐ *“Learning never stops — consistency builds mastery”* ⭐
+</p>
 
 ## 💡 MOTTO
 
