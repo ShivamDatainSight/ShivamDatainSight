@@ -262,7 +262,6 @@ Welcome to my Kaggle achievement showcase!
 This repository highlights my learning journey, consistency, and growth in **Data Science & Python programming**.
 
 ---
-
 ## 🏆 Kaggle Achievements
 
 ---
@@ -270,56 +269,40 @@ This repository highlights my learning journey, consistency, and growth in **Dat
 ### 👨‍💻 Kaggle Community Member
 
 <p align="center">
-  <a href="assets/kaggle_community_member.png">
-    <img src="assets/kaggle_community_member.png" width="700"/>
+  <a href="https://raw.githubusercontent.com/ShivamDatainSight/Kaggle_Badges/main/assets/kaggle_community_member.png">
+    <img src="https://raw.githubusercontent.com/ShivamDatainSight/Kaggle_Badges/main/assets/kaggle_community_member.png" width="700"/>
   </a>
 </p>
-
-**Kaggle Community Member**  
-📅 Issued: September 7, 2023  
-🎯 Joined Kaggle and became part of the global data science community.
 
 ---
 
 ### 🐍 Python Coder
 
 <p align="center">
-  <a href="assets/python_coder.png">
-    <img src="assets/python_coder.png" width="700"/>
+  <a href="https://raw.githubusercontent.com/ShivamDatainSight/Kaggle_Badges/main/assets/python_coder.png">
+    <img src="https://raw.githubusercontent.com/ShivamDatainSight/Kaggle_Badges/main/assets/python_coder.png" width="700"/>
   </a>
 </p>
-
-**Python Coder**  
-📅 Issued: September 13, 2024  
-🎯 Completed Python programming fundamentals through Kaggle.
 
 ---
 
 ### ⏳ 1 Year on Kaggle
 
 <p align="center">
-  <a href="assets/1_year_on_kaggle.png">
-    <img src="assets/1_year_on_kaggle.png" width="700"/>
+  <a href="https://raw.githubusercontent.com/ShivamDatainSight/Kaggle_Badges/main/assets/1_year_on_kaggle.png">
+    <img src="https://raw.githubusercontent.com/ShivamDatainSight/Kaggle_Badges/main/assets/1_year_on_kaggle.png" width="700"/>
   </a>
 </p>
-
-**1 Year on Kaggle**  
-📅 Milestone Achievement  
-🎯 Consistent learning for 1 year
 
 ---
 
 ### ⏳ 2 Years on Kaggle
 
 <p align="center">
-  <a href="assets/2_years_on_kaggle.png">
-    <img src="assets/2_years_on_kaggle.png" width="700"/>
+  <a href="https://raw.githubusercontent.com/ShivamDatainSight/Kaggle_Badges/main/assets/2_years_on_kaggle.png">
+    <img src="https://raw.githubusercontent.com/ShivamDatainSight/Kaggle_Badges/main/assets/2_years_on_kaggle.png" width="700"/>
   </a>
 </p>
-
-**2 Years on Kaggle**  
-📅 Milestone Achievement  
-🎯 Continuous learning for 2 years
 
 ## 💡 MOTTO
 
