@@ -370,6 +370,12 @@ This repository highlights my learning journey, consistency, and growth in **Dat
 </p>
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=👋+Thanks+for+Visiting+My+GitHub!;📊+Turning+Data+Into+Insights;🚀+Learn+•+Build+•+Share+•+Grow" alt="Typing SVG" />
+</p>
+
+<h3 align="center">✨ Thanks for visiting my GitHub! Every repository is a step toward learning, building, and growing. 🚀</h3>
+
 
 
 
