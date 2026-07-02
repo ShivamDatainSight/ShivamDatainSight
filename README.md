@@ -360,7 +360,8 @@ This repository highlights my learning journey, consistency, and growth in **Dat
 ---
 ---
 
-<h3 align="center">🌟 Thanks for visiting my profile! 🌟</h3>
+
+<h2 align="center">✨ THANK YOU FOR VISITING MY GITHUB ✨</h2>
 
 <p align="center">
 If you found my projects helpful, consider giving them a ⭐.<br>
@@ -374,10 +375,5 @@ I'm always learning, building, and sharing new Data Analytics projects.<br><br>
 </p>
 
 
-<h2 align="center">✨ THANK YOU FOR VISITING MY GITHUB ✨</h2>
 
-<p align="center">
-🚀 Building. Learning. Improving every day.<br>
-💙 Hope you found something useful here.
-</p>
 
