@@ -358,25 +358,19 @@ This repository highlights my learning journey, consistency, and growth in **Dat
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 ---
+---
 
-<h1 align="center">👋 Welcome to My GitHub!</h1>
+<h3 align="center">🌟 Thanks for visiting my profile! 🌟</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+GitHub!;Turning+Data+Into+Insights+📊;Building+Projects+That+Matter+🚀;Learn+•+Build+•+Share+•+Grow" alt="Typing SVG" />
+If you found my projects helpful, consider giving them a ⭐.<br>
+I'm always learning, building, and sharing new Data Analytics projects.<br><br>
+
+💙 <b>Happy Coding & Keep Growing!</b> 🚀
 </p>
 
 <p align="center">
-  <b>✨ Thanks for stopping by! Every repository is a step in my learning journey. Feel free to explore, learn, and connect. 🚀</b>
+<i>"Data is the new oil, but insights are the real fuel."</i> 📊
 </p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=👋+Thanks+for+Visiting+My+GitHub!;📊+Turning+Data+Into+Insights;🚀+Learn+•+Build+•+Share+•+Grow" alt="Typing SVG" />
-</p>
-
-<h3 align="center">✨ Thanks for visiting my GitHub! Every repository is a step toward learning, building, and growing. 🚀</h3>
-
-
-
 
 
