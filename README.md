@@ -374,3 +374,10 @@ I'm always learning, building, and sharing new Data Analytics projects.<br><br>
 </p>
 
 
+<h2 align="center">✨ THANK YOU FOR VISITING MY GITHUB ✨</h2>
+
+<p align="center">
+🚀 Building. Learning. Improving every day.<br>
+💙 Hope you found something useful here.
+</p>
+
