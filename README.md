@@ -359,6 +359,16 @@ This repository highlights my learning journey, consistency, and growth in **Dat
 
 ---
 
+<h1 align="center">👋 Welcome to My GitHub!</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+GitHub!;Turning+Data+Into+Insights+📊;Building+Projects+That+Matter+🚀;Learn+•+Build+•+Share+•+Grow" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <b>✨ Thanks for stopping by! Every repository is a step in my learning journey. Feel free to explore, learn, and connect. 🚀</b>
+</p>
+
 
 
 
