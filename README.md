@@ -359,6 +359,18 @@ This repository highlights my learning journey, consistency, and growth in **Dat
 
 ---
 ---
+<h2 align="center">✨ THANK YOU FOR VISITING MY GITHUB ✨</h2>
+
+<p align="center">
+If you found my projects helpful, consider giving them a ⭐.<br>
+I'm always learning, building, and sharing new Data Analytics projects.<br><br>
+
+💙 <b>Happy Coding & Keep Growing!</b> 🚀
+</p>
+
+<p align="center">
+<i>"Data is the new oil, but insights are the real fuel."</i> 📊
+</p>
 
 
 
