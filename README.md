@@ -368,9 +368,6 @@ I'm always learning, building, and sharing new Data Analytics projects.<br><br>
 💙 <b>Happy Coding & Keep Growing!</b> 🚀
 </p>
 
-<p align="center">
-<i>"Data is the new oil, but insights are the real fuel."</i> 📊
-</p>
 
 
 
