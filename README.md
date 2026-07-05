@@ -37,7 +37,7 @@ I am a **Computer Science Engineering (CSE) graduate** with a specialization in 
 
 I have over 2 years of professional experience as a **Junior Project Engineer at Larsen & Toubro (L&T India)**, where I developed strong expertise in project management, resource planning, coordination, and execution of large-scale engineering projects. During my tenure, I worked extensively with **Advanced Excel**, **Power BI**, and **PowerPoint** for data analysis, visualization, and management reporting.
 
-My responsibilities included **data reconciliation and validation** to ensure accuracy in project records, along with managing and organizing project data on internal systems. I also gained hands-on experience with **SAP MM (Material Management)** and internal platforms such as **ELPH** for engineering project data management.
+My responsibilities included **data reconciliation and validation** to ensure accuracy in project records, along with managing and organizing project data on internal systems. I also gained hands-on experience with **SAP MM (Material Management)** and internal platforms such as **ELPHs** for engineering project data management.
 
 Additionally, I handled **engineering drawing material reconciliation** and contributed to improving data accuracy, reporting efficiency, and site-level coordination. I am focused on building a career in **Data Analytics** and **Data Science**, where I can apply my analytical skills and technical knowledge to solve real-world business problems.
 
