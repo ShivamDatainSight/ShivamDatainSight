@@ -5,10 +5,8 @@
 ### 📊 Data Analyst | 📈 BI Developer | 🤖 Data Science Enthusiast
 
 <br>
-
 <!-- Main animated headline -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Turning+Raw+Data+Into+Actionable+Insights;Building+Smart+Data+Driven+Solutions;Exploring+Data+Science+%7C+AI+%7C+Analytics;Creating+Business+Impact+Through+Data" />
-
 <br>
 
 <!-- Process animation (clean workflow style) -->
