@@ -26,7 +26,7 @@
 <h1 align="center">🚀 Passionate about Transforming Data into Insights, Building Intelligent Solutions, Driving Innovation, and Empowering Decisions Through Data & AI</h1>
 
 
-## 🎯 Professional Summa
+## 🎯 Professional Summar
 
 I am a **Computer Science Engineering (CSE) graduate** with a specialization in **Artificial Intelligence and Machine Learning**, passionate about **Data Science, Data Analytics, and Business Analysis**. I enjoy transforming raw data into meaningful insights that support informed business decision-making.
 
