@@ -368,7 +368,7 @@ I'm always learning, building, and sharing new Data Analytics projects.<br><br>
 </p>
 
 
-#Thanks & Regards
+
 Shivam Choudhary
 
 
