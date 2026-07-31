@@ -2,7 +2,7 @@
 
 # ⚡Hi, I'm Shivam Choudhary
 
-### 📊 
+### 📊 Data Analyst | 
 
 <br>
 <!-- Main animated headline -->
