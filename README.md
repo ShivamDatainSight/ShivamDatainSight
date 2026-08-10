@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡Hi, I'm Shivam Choudhary
+# ⚡Hi, I'm Shivam Choudha
 
 ### 📊 Data Analyst | 📈 BI Developer | 🤖 Data Science Enthusiast
 
